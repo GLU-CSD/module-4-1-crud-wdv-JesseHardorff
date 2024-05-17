@@ -52,14 +52,24 @@
 
 <?php
 if (isset($_POST['submit'])) {
-    $id = $_POST['id'];
-    $productNaam = $_POST['product_naam'];
-    $productPrijs = $_POST['product_prijs'];
-    $productBio = $_POST['product_bio'];
-    $productKleinbio = $_POST['product_kleinbio'];
-    $foto1 = $_POST['foto1'];
-    $foto2 = $_POST['foto2'];
-    $foto3 = $_POST['foto3'];
+    $id = filter_var($_POST['id'], FILTER_VALIDATE_INT);
+    $productNaam = htmlspecialchars($_POST['product_naam']);
+    $productPrijs = filter_var($_POST['product_prijs']);
+    $productBio = htmlspecialchars($_POST['product_bio']);
+    $productKleinbio = htmlspecialchars($_POST['product_kleinbio']);
+    $foto1 = htmlspecialchars($_POST['foto1']);
+    $foto2 = htmlspecialchars($_POST['foto2']);
+    $foto3 = htmlspecialchars($_POST['foto3']);
+
+    if ($id === false || $id <= 0) {
+        echo "Ongeldige ID. Voer een positief geheel getal in.";
+        exit;
+    }
+
+    if ($productPrijs === false || $productPrijs <= 0) {
+        echo "Ongeldige prijs. Voer een geldig decimaal getal in.";
+        exit;
+    }
 
     $sql = "INSERT INTO producten (id, product_naam, product_prijs, product_bio, product_kleinbio, foto_1, foto_2, foto_3) VALUES (?, ?, ?, ?, ?, ?, ?, ?)";
     $insertqry = $con->prepare($sql);

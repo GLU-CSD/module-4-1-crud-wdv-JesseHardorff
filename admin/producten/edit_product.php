@@ -36,7 +36,8 @@
         </div>
         <div class="mb-3">
             <label for="textInput" class="form-label">Product_Prijs</label>
-            <input type="text" name="product_prijs" class="form-control" id="product_prijs" placeholder="Prijs" value="<?php echo isset($product_prijs) ? $product_prijs : ''; ?>" required>
+            <input type="text" pattern="[0-9]{1,3}\.[0-9]{2}" name="product_prijs" class="form-control" id="product_prijs" placeholder="Prijs" value="<?php echo isset($product_prijs) ? $product_prijs : ''; ?>" required>
+            <div class="error-message">min 1 en max 2 getal voor de prijs en moet 2 cijfers achter de punt</div>
         </div>
         <div class="mb-3">
             <label for="textInput" class="form-label">Product_bio</label>
@@ -66,14 +67,38 @@
 
 <?php
 if (isset($_POST['submit'])) {
-    $id = $_POST['id'];
-    $productNaam = $_POST['product_naam'];
-    $productPrijs = $_POST['product_prijs'];
-    $productBio = $_POST['product_bio'];
-    $productKleinbio = $_POST['product_kleinbio'];
-    $foto1 = $_POST['foto1'];
-    $foto2 = $_POST['foto2'];
-    $foto3 = $_POST['foto3'];
+    $id = filter_var($_POST['id'], FILTER_VALIDATE_INT);
+    $productNaam = htmlspecialchars($_POST['product_naam']);
+    $productPrijs = filter_var($_POST['product_prijs']);
+    $productBio = htmlspecialchars($_POST['product_bio']);
+    $productKleinbio = htmlspecialchars($_POST['product_kleinbio']);
+    $foto1 = htmlspecialchars($_POST['foto1']);
+    $foto2 = htmlspecialchars($_POST['foto2']);
+    $foto3 = htmlspecialchars($_POST['foto3']);
+
+    if ($id === false || $id <= 0 || $id >= 100) {
+        echo "Ongeldige ID. Voer een positief heel getal onder de 100 in.";
+        exit;
+    } else if (!preg_match("/^[a-zA-Z0-9 ]*$/", $productNaam)) {
+        echo "Ongeldige naam. Gebruik alleen letters en cijfers.";
+        exit;
+    }else if (!preg_match("/^[a-zA-Z0-9 .,'']*$/", $productBio)) {
+        echo "Ongeldige Bio. Gebruik alleen letters, cijfers, spaties, en de symbolen . , '";
+        exit;
+    }
+    else if (!preg_match("/^[a-zA-Z0-9 .,'']*$/", $productKleinbio)) {
+        echo "Ongeldige Kleinbio. Gebruik alleen letters, cijfers, spaties, en de symbolen . , '";
+        exit;
+    } else if (!preg_match("/^[a-zA-Z0-9 ]*\.png$/", $foto1)) {
+        echo "Ongeldige foto1. Gebruik alleen letters en cijfers en voeg '.png' toe aan het einde van de naam.";
+        exit;
+    } else if (!preg_match("/^[a-zA-Z0-9 ]*\.png$/", $foto2)) {
+        echo "Ongeldige foto2. Gebruik alleen letters en cijfers en voeg '.png' toe aan het einde van de naam.";
+        exit;
+    } else if (!preg_match("/^[a-zA-Z0-9 ]*\.png$/", $foto3)) {
+        echo "Ongeldige foto3. Gebruik alleen letters en cijfers en voeg '.png' toe aan het einde van de naam.";
+        exit;
+    }else{
 
     $sql = "UPDATE producten SET product_naam = ?, product_prijs = ?, product_bio = ?, product_kleinbio = ?, foto_1 = ?, foto_2 = ?, foto_3 = ? WHERE id = ?";
     $updateqry = $con->prepare($sql);
@@ -91,6 +116,7 @@ if (isset($_POST['submit'])) {
 
         $updateqry->close();
     }
+}
 }
 ?>
 
