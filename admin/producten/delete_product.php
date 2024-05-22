@@ -77,7 +77,9 @@ include('../core/header.php');
         $deleteqry->bind_param('i', $id);
 
         if ($deleteqry->execute()) {
-            echo "Product succesvol verwijderd.";
+            $redirectUrl = BASEURL . "admin/producten/";
+            header("Location: " . $redirectUrl);
+            exit();
         } else {
             echo "Error bij verwijderen product: " . $deleteqry->error;
         }

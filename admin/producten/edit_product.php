@@ -114,9 +114,9 @@ if (isset($_POST['submit'])) {
     } else if (!preg_match("/^[a-zA-Z0-9 ]*$/", $product_naam)) {
         echo "Ongeldige naam. Gebruik alleen letters en cijfers.";
     } else if (!preg_match("/^[a-zA-Z0-9 .,'']*$/", $product_bio)) {
-        echo "Ongeldige Bio. Gebruik alleen letters, cijfers, spaties, en de symbolen . , '";
+        echo "Ongeldige Bio. Gebruik alleen letters, cijfers, spaties, en de symbolen . , ";
     } else if (!preg_match("/^[a-zA-Z0-9 .,'']*$/", $product_kleinbio)) {
-        echo "Ongeldige Kleinbio. Gebruik alleen letters, cijfers, spaties, en de symbolen . , '";
+        echo "Ongeldige Kleinbio. Gebruik alleen letters, cijfers, spaties, en de symbolen . , ";
     } else if (!preg_match("/^[a-zA-Z0-9 ]*\.png$/", $foto1)) {
         echo "Ongeldige foto1. Gebruik alleen letters en cijfers en voeg '.png' toe aan het einde van de naam.";
     } else if (!preg_match("/^[a-zA-Z0-9 ]*\.png$/", $foto2)) {
@@ -134,7 +134,10 @@ if (isset($_POST['submit'])) {
         $updateqry->bind_param('isssssssi', $new_id, $product_naam, $product_prijs, $product_bio, $product_kleinbio, $foto1, $foto2, $foto3, $current_id);
 
         if ($updateqry->execute()) {
-            echo "Product succesvol bijgewerkt.";
+            
+            $redirectUrl = BASEURL . "admin/producten/";
+            header("Location: " . $redirectUrl);
+            exit();
         } else {
             echo "Error bij bijwerken product: " . $updateqry->error;
         }

@@ -92,7 +92,9 @@ if (isset($_POST['submit'])) {
                 $updateqry->bind_param('sssi', $blog_bericht, $blog_maker, $laatst_edit, $id);
 
                 if ($updateqry->execute()) {
-                    echo "Blog succesvol bijgewerkt.";
+                    $redirectUrl = BASEURL . "admin/blogs/";
+                    header("Location: " . $redirectUrl);
+                    exit();
                 } else {
                     echo "Error bij bijwerken blog: " . $updateqry->error;
                 }

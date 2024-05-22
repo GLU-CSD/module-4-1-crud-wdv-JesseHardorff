@@ -69,7 +69,9 @@ include('../core/header.php');
         $deleteqry->bind_param('i', $id);
 
         if ($deleteqry->execute()) {
-            echo "Blog succesvol verwijderd.";
+            $redirectUrl = BASEURL . "admin/blogs/";
+            header("Location: " . $redirectUrl);
+            exit();
         } else {
             echo "Error bij verwijderen blog: " . $deleteqry->error;
         }

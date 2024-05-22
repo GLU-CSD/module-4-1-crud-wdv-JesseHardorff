@@ -67,7 +67,9 @@ if (isset($_POST['submit'])) {
             $insertqry->bind_param('issss', $id, $blog_bericht, $blog_maker, $tijd_gemaakt, $laatst_edit);
 
             if ($insertqry->execute()) {
-                echo "Nieuw blog succesvol toegevoegd.";
+                $redirectUrl = BASEURL . "admin/blogs/";
+                header("Location: " . $redirectUrl);
+                exit();
             } else {
                 echo "Error bij toevoegen blog: " . $insertqry->error;
             }

@@ -116,7 +116,9 @@ if (isset($_POST['submit'])) {
         $insertqry->bind_param('isssssss', $new_id, $product_naam, $product_prijs, $product_bio, $product_kleinbio, $foto1, $foto2, $foto3);
 
         if ($insertqry->execute()) {
-            echo "Product succesvol toegevoegd.";
+            $redirectUrl = BASEURL . "admin/producten/";
+            header("Location: " . $redirectUrl);
+            exit();
         } else {
             echo "Error bij toevoegen product: " . $insertqry->error;
         }
