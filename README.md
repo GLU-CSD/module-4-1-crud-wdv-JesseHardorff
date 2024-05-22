@@ -1,24 +1,27 @@
-# Basis webshop voor lessen webshop bouwen
 
-## Starten van applicatie
+## Benodigheden
+Zorg dat je XAMPP hebt geinstaleerd
 
-In de **database** map staan een __backup.sql__
+Zorg dat je vscode hebt geinstaleerd
 
-Zorg dat je je eigen database backup in deze map zet.
+## Starten van admin panel
 
-Maak een database naam aan en zet in het bestand **core/db_connect.php**
+In de database map staat een bestand genaamd webdev_base.sql
 
-## Mappenstructuur
+Zorg dat je die import in je phpmyadmin
 
-- ***admin*** 
-    - Is het mapje waar het CMS (Content Management System) of Admin panel komt van de webshop.
-- ***assets*** 
-    - Hierin staan de css, js en images.
-    - Ook staan hier de upload images die geupload worden vanuit het CMS
-- ***core***
-    - In dit mapje staat de database connectie.
-    - De header en de footer van de HTML voorkant.
-    - **admin/core** bevat nog een checklogin function file. 
-- ***functions***
-    - Hier komen de _functions_ van de webshop in te staan. Denk hierbij aan het ophalen van producten of het plaatsen van een bestelling.
+Ga naar de folder core en dan de bestand db_connect.php
+
+Verander regel 20 en 21 naar de links die voor jou werken
+
+Zorg dat je in XAMPP MySQL en Apache aan hebt staan
+
+## Admin panel zoeken
+
+Zoek in je browser deze link op
+http://localhost/   hier staat waar jouw map locatie staat    /admin/
+
+Klik dan op Producten om in de producten admin panel te zitten.
+
+
 
