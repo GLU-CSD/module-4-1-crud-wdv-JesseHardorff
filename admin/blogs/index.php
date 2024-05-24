@@ -1,3 +1,4 @@
+
 <?php
     include('../core/header.php');
 ?>
@@ -6,6 +7,18 @@
     <title>Producten</title>
     <link rel="stylesheet" href="../assets/css/style.css">
 </head>
+<body>
+    <div class="header">
+        <?php
+        if (isset($_SESSION['ingelogd']) && $_SESSION['ingelogd']) {
+            echo '<a href="uitloggen.php">Uitloggen</a>';
+        } else {
+            echo '<a href="./login.php">Inloggen</a>'; // Pas het pad aan naar de login.php pagina
+        }
+        
+        ?>
+    </div>
+    </body>
 <div class="row">
 
 

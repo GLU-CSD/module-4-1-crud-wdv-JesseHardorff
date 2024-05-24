@@ -1,0 +1,1806 @@
+
+<!-- echo "<div id='doos1'>";
+
+echo "<div id='plaatje1'><div id='logo51'><img src='https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png' alt='logo' width='170' height='130'></div></div>";
+    
+echo "<div id='logo31'><img id="CartId1" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos2'>";
+
+echo "<div id='plaatje2'><div id='logo3'><img src='https://i.pinimg.com/originals/0b/42/5c/0b425cd84981c4fc3fe5436926fc3056.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo32'><img id="CartId2" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos3'>";
+
+echo "<div id='plaatje3'><div id='logo4'><img src='https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo33'><img id="CartId3" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos4'>";
+
+echo "<div id='plaatje4'><div id='logo5'><img src='https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo34'><img id="CartId4" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos5'>";
+
+echo "<div id='plaatje5'><div id='logo6'><img src='https://i.pinimg.com/originals/66/e8/d3/66e8d3ba8e29d4ee4be9d909acba7f41.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo35'><img id="CartId5" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos6'>";
+
+echo "<div id='plaatje6'><div id='logo7'><img src='https://purepng.com/public/uploads/large/purepng.com-grill-chickenfood-meat-chicken-grilled-941524616969gg9vh.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo36'><img id="CartId6" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos7'>";
+
+echo "<div id='plaatje7'><div id='logo8'><img src='https://boazhuisman.nl/site/assets/files/1105/kikker-png-kikker-650.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo37'><img id="CartId7" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos8'>";
+
+echo "<div id='plaatje8'><div id='logo9'><img src='https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416_1280.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo38'><img id="CartId8" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos9'>";
+
+echo "<div id='plaatje9'><div id='logo10'><img src='https://www.pngfind.com/pngs/b/328-3284940_angry-birds-movie-png-angry-birds-film-red.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo39'><img id="CartId9" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos10'>";
+
+echo "<div id='plaatje10'><div id='logo11'><img src='https://purepng.com/public/uploads/large/purepng.com-kingfisher-birdbirdsflyanimals-631522936498w5hgz.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo40'><img id="CartId10" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos11'>";
+
+echo "<div id='plaatje11'><div id='logo12'><img src='https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-happy-smile-cat-images-png-image_10276665.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo41'><img id="CartId11" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos12'>";
+
+echo "<div id='plaatje12'><div id='logo13'><img src='https://static.vecteezy.com/system/resources/thumbnails/016/761/881/small/the-dog-smiles-because-he-is-happy-png.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo42'><img id="CartId12" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos13'>";
+
+echo "<div id='plaatje13'><div id='logo14'><img src='https://www.deuitgelatenhond.nl/wp-content/uploads/2016/07/Dog-PNG-10.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo43'><img id="CartId13" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos14'>";
+
+echo "<div id='plaatje14'><div id='logo15'><img src='https://purepng.com/public/uploads/large/purepng.com-doganimalsdogboy-981524673092o91pm.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo44'><img id="CartId14" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos15'>";
+
+echo "<div id='plaatje15'><div id='logo16'><img src='https://i.pinimg.com/originals/48/02/8f/48028fb2a43ed318ffc5b3d0338ca8bb.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo45'><img id="CartId15" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos16'>";
+
+echo "<div id='plaatje16'><div id='logo17'><img src='https://static.vecteezy.com/system/resources/previews/024/722/277/non_2x/pig-with-ai-generated-free-png.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo46'><img id="CartId16" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+m
+echo "</div>";
+
+
+echo "<div id='doos17'>";
+
+echo "<div id='plaatje17'><div id='logo18'><img src='https://static.vecteezy.com/system/resources/previews/009/339/329/non_2x/chicken-egg-raw-free-png.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo47'><img id="CartId17" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+;;''tl
+echo "</div>";
+
+
+echo "<div id='doos18'>";
+
+echo "<div id='plaatje18'><div id='logo19'><img src='https://static.vecteezy.com/system/resources/thumbnails/018/925/494/small/worm-flat-color-png.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo48'><img id="CartId18" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos19'>";
+
+echo "<div id='plaatje19'><div id='logo20'><img src='https://cdn.pixabay.com/photo/2022/07/01/14/35/elephant-7295737_960_720.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo49'><img id="CartId19" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>";
+
+
+echo "<div id='doos20'>";
+
+echo "<div id='plaatje20'><div id='logo21'><img src='https://www.pngfind.com/pngs/b/469-4697564_19-giraffe-png-freeuse-stock-huge-freebie-download.png' alt='logo' width='170' height='150'></div></div>";
+    
+echo "<div id='logo50'><img id="CartId20" src='https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png' alt='logo' width='50' height='50'></div></div>";
+
+echo "</div>"; -->
+
+
+
+<!-- <div id="doos1">
+            <div id="plaatje1">
+              <div id="logo51"><img src="https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png" alt="logo" width="170" height="130"></div>
+            </div>
+            <p><span class="o1">Paard</span></p>
+            <p><span class="o2">$12,99</span></p>
+
+            <div id="logo31">
+              <img id="CartId1" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+            </div>
+            
+          </div>
+
+
+        <div id="doos2">
+          <div id="plaatje2">
+            <div id="logo3">
+              <img src="https://i.pinimg.com/originals/0b/42/5c/0b425cd84981c4fc3fe5436926fc3056.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Kip</span></p>
+          <p><span class="o2">$4,99</span></p>
+          <div id="logo32">
+            <img id="CartId2" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+
+
+        <div id="doos3">
+          <div id="plaatje3">
+            <div id="logo4">
+              <img src="https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png" alt="logo" width="170" height="150">
+            </div>
+            
+          </div>
+          <p><span class="o1">Koe</span></p>
+          <p><span class="o2">$259,99</span></p>
+          <div id="logo33">
+            <img id="CartId3" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos4">
+          <div id="plaatje4">
+            <div id="logo5">
+              <img src="  https://purepng.com/public/uploads/large/91508180235kaecnplpbqjuutdrdvdn4cscrzytspbnwlb7cwt7vzgxlu6aa7f3kzbprldhtoz3bgj0xc36r53jbtdhmmc8vj1taklhlyj8o9dd.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Paard</span></p>
+          <p><span class="o2">$80,50</span></p>
+          <div id="logo34">
+            <img id="CartId4" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos5">
+          <div id="plaatje5">
+            <div id="logo6">
+              <img src=" https://i.pinimg.com/originals/66/e8/d3/66e8d3ba8e29d4ee4be9d909acba7f41.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Kip 2</span></p>
+          <p><span class="o2">$5,99</span></p>
+          <div id="logo35">
+            <img id="CartId5" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos6">
+          <div id="plaatje6">
+            <div id="logo7">
+              <img  src=" https://purepng.com/public/uploads/large/purepng.com-grill-chickenfood-meat-chicken-grilled-941524616969gg9vh.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Kip 3</span></p>
+          <p><span class="o2">$5,50</span></p>
+          <div id="logo36">
+            <img id="CartId6" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos7">
+          <div id="plaatje7">
+            <div id="logo8">
+              <img src=" https://boazhuisman.nl/site/assets/files/1105/kikker-png-kikker-650.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Kikker</span></p>
+          <p><span class="o2">$2,99</span></p>
+          <div id="logo37">
+            <img id="CartId7" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos8">
+          <div id="plaatje8">
+            <div id="logo9">
+              <img src=" https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416_1280.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Vogel</span></p>
+          <p><span class="o2">$10,00</span></p>
+          <div id="logo38">
+            <img id="CartId8" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos9">
+          <div id="plaatje9">
+            <div id="logo10">
+              <img src="https://www.pngfind.com/pngs/b/328-3284940_angry-birds-movie-png-angry-birds-film-red.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Vogel 2</span></p>
+          <p><span class="o2">$3515,00</span></p>
+          <div id="logo39">
+            <img id="CartId9" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos10">
+          <div id="plaatje10">
+            <div id="logo11">
+              <img src="https://purepng.com/public/uploads/large/purepng.com-kingfisher-birdbirdsflyanimals-631522936498w5hgz.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Vogel 3</span></p>
+          <p><span class="o2">$13,50</span></p>
+          <div id="logo40">
+            <img id="CartId10"  src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos11">
+          <div id="plaatje11">
+            <div id="logo12">
+              <img src="https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-happy-smile-cat-images-png-image_10276665.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Kat</span></p>
+          <p><span class="o2">$20,00</span></p>
+          <div id="logo41">
+            <img id="CartId11"  src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos12">
+          <div id="plaatje12">
+            <div id="logo13">
+              <img src="https://static.vecteezy.com/system/resources/thumbnails/016/761/881/small/the-dog-smiles-because-he-is-happy-png.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Hond</span></p>
+          <p><span class="o2">$35,00</span></p>
+          <div id="logo42">
+            <img id="CartId12"  src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos13">
+          <div id="plaatje13">
+            <div id="logo14">
+              <img src="https://www.deuitgelatenhond.nl/wp-content/uploads/2016/07/Dog-PNG-10.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Hond 2</span></p>
+          <p><span class="o2">$55,00</span></p>
+          <div id="logo43">
+            <img id="CartId13"  src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos14">
+          <div id="plaatje14">
+            <div id="logo15">
+              <img src="https://purepng.com/public/uploads/large/purepng.com-doganimalsdogboy-981524673092o91pm.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Hond 3</span></p>
+          <p><span class="o2">$49,99</span></p>
+          <div id="logo44">
+            <img id="CartId14"  src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos15">
+          <div id="plaatje15">
+            <div id="logo16">
+              <img src="https://i.pinimg.com/originals/48/02/8f/48028fb2a43ed318ffc5b3d0338ca8bb.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Hond 4</span></p>
+          <p><span class="o2">$100,000</span></p>
+          <div id="logo45">
+            <img id="CartId15"  src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos16">
+          <div id="plaatje16">
+            <div id="logo17">
+              <img src="https://static.vecteezy.com/system/resources/previews/024/722/277/non_2x/pig-with-ai-generated-free-png.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Varken</span></p>
+          <p><span class="o2">$150,00</span></p>
+          <div id="logo46">
+            <img id="CartId16" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos17">
+          <div id="plaatje17">
+            <div id="logo18">
+              <img src="https://static.vecteezy.com/system/resources/previews/009/339/329/non_2x/chicken-egg-raw-free-png.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">ei</span></p>
+          <p><span class="o2">$100,00</span></p>
+          <div id="logo47">
+            <img  id="CartId17" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos18">
+          <div id="plaatje18">
+            <div id="logo19">
+              <img src="https://static.vecteezy.com/system/resources/thumbnails/018/925/494/small/worm-flat-color-png.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Worm</span></p>
+          <p><span class="o2">$0,50</span></p>
+          <div id="logo48">
+            <img id="CartId18" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos19">
+          <div id="plaatje19">
+            <div id="logo20">
+              <img src="https://cdn.pixabay.com/photo/2022/07/01/14/35/elephant-7295737_960_720.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Olifant</span></p>
+          <p><span class="o2">$249,99</span></p>
+          <div id="logo49">
+            <img id="CartId19" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+        </div>
+        <div id="doos20">
+          <div id="plaatje20">
+            <div id="logo21">
+              <img src="https://www.pngfind.com/pngs/b/469-4697564_19-giraffe-png-freeuse-stock-huge-freebie-download.png" alt="logo" width="170" height="150">
+            </div>
+          </div>
+          <p><span class="o1">Giraffe</span></p>
+          <p><span class="o2">$777,77</span></p>
+          <div id="logo50">
+            <img id="CartId20" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+          </div>
+          </div>
+           -->
+
+
+
+
+
+
+
+
+
+      //  echo '<div class="div1">';
+         
+            //   echo '<div class="doos" id="doos1">
+            //   <div id="plaatje1">
+            //     <div id="logo51">
+            //     <img src="sprite/'.$product['photos']['photo1'].'" alt="logo" width="170" height="130">
+            //     </div>
+            //   </div>
+            //   <p><span class="o1">'.$product['title']. '</span></p>
+            //   <p><span class="o2">'.$product['price']. '</span></p>
+  
+            //   <div id="logo31">
+            //     <img id="CartId1" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-512.png" alt="logo" width="50" height="50">
+            //   </div>
+              
+            // </div>';
+
+
+
+           
+            // <div class="div1"> </div>
+            // <div class="div2"> </div>
+            // <div class="div3"> </div>
+            // <div class="div4"> </div>
+            // <div class="div5"> </div>
+            // <div class="div6"> </div>
+            // <div class="div7"> </div>
+            // <div class="div8"> </div>
+            // <div class="div9"> </div>
+            // <div class="div10"> </div>
+            // <div class="div11"> </div>
+            // <div class="div12"> </div>
+            // <div class="div13"> </div>
+            // <div class="div14"> </div>
+            // <div class="div15"> </div>
+            // <div class="div16"> </div>
+            // <div class="div17"> </div>
+            // <div class="div18"> </div>
+            // <div class="div19"> </div>
+            // <div class="div20"> </div>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function Cart1() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Paard");
+    localStorage.setItem("DescriptionV1", "Deze paard is Blij ");
+    localStorage.setItem("PriceV1", "$12,99");
+    localStorage.setItem("TotalPriceV1", "$12,99");
+    localStorage.setItem("ImgV1", "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+    refreshCounter();
+    console.log(itemCount);
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Paard");
+    localStorage.setItem("DescriptionV2", "Deze paard is Blij ");
+    localStorage.setItem("PriceV2", "$12,99");
+    localStorage.setItem("TotalPriceV2", "$12,99");
+    localStorage.setItem("ImgV2", "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+    refreshCounter();
+    console.log(itemCount);
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Paard");
+    localStorage.setItem("DescriptionV3", "Deze paard is Blij ");
+    localStorage.setItem("PriceV3", "$12,99");
+    localStorage.setItem("TotalPriceV3", "$12,99");
+    localStorage.setItem("ImgV3", "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+
+    box3Available = false;
+    refreshCounter();
+    console.log(itemCount);
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Paard");
+    localStorage.setItem("DescriptionV4", "Deze paard is Blij ");
+    localStorage.setItem("PriceV4", "$12,99");
+    localStorage.setItem("TotalPriceV4", "$12,99");
+    localStorage.setItem("ImgV4", "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+    refreshCounter();
+    console.log(itemCount);
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Paard");
+    localStorage.setItem("DescriptionV5", "Deze paard is Blij ");
+    localStorage.setItem("PriceV5", "$12,99");
+    localStorage.setItem("TotalPriceV5", "$12,99");
+    localStorage.setItem("ImgV5", "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+    console.log(box5Available);
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+function Cart2() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Kip");
+    localStorage.setItem("DescriptionV1", "Deze kip legt silveren eieren ");
+    localStorage.setItem("PriceV1", "$4,99");
+    localStorage.setItem("TotalPriceV1", "$4,99");
+    localStorage.setItem("ImgV1", "https://i.pinimg.com/originals/0b/42/5c/0b425cd84981c4fc3fe5436926fc3056.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Kip");
+    localStorage.setItem("DescriptionV2", "Deze kip legt silveren eieren ");
+    localStorage.setItem("PriceV2", "$4,99");
+    localStorage.setItem("TotalPriceV2", "$4,99");
+    localStorage.setItem("ImgV2", "https://i.pinimg.com/originals/0b/42/5c/0b425cd84981c4fc3fe5436926fc3056.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Kip");
+    localStorage.setItem("DescriptionV3", "Deze kip legt silveren eieren ");
+    localStorage.setItem("PriceV3", "$4,99");
+    localStorage.setItem("TotalPriceV3", "$4,99");
+    localStorage.setItem("ImgV3", "https://i.pinimg.com/originals/0b/42/5c/0b425cd84981c4fc3fe5436926fc3056.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Kip");
+    localStorage.setItem("DescriptionV4", "Deze kip legt silveren eieren ");
+    localStorage.setItem("PriceV4", "$4,99");
+    localStorage.setItem("TotalPriceV4", "$4,99");
+    localStorage.setItem("ImgV4", "https://i.pinimg.com/originals/0b/42/5c/0b425cd84981c4fc3fe5436926fc3056.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Kip");
+    localStorage.setItem("DescriptionV5", "Deze kip legt silveren eieren ");
+    localStorage.setItem("PriceV5", "$4,99");
+    localStorage.setItem("TotalPriceV5", "$4,99");
+    localStorage.setItem("ImgV5", "https://i.pinimg.com/originals/0b/42/5c/0b425cd84981c4fc3fe5436926fc3056.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+function Cart3() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Koe");
+    localStorage.setItem("DescriptionV1", "Deze koe heeft de lekkerste melk in de wereld");
+    localStorage.setItem("PriceV1", "$259,99");
+    localStorage.setItem("TotalPriceV1", "$259,99");
+    localStorage.setItem("ImgV1", "https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Koe");
+    localStorage.setItem("DescriptionV2", "Deze koe heeft de lekkerste melk in de wereld");
+    localStorage.setItem("PriceV2", "$259,99");
+    localStorage.setItem("TotalPriceV2", "$259,99");
+    localStorage.setItem("ImgV2", "https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Koe");
+    localStorage.setItem("DescriptionV3", "Deze koe heeft de lekkerste melk in de wereld");
+    localStorage.setItem("PriceV3", "$259,99");
+    localStorage.setItem("TotalPriceV3", "$259,99");
+    localStorage.setItem("ImgV3", "https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Koe");
+    localStorage.setItem("DescriptionV4", "Deze koe heeft de lekkerste melk in de wereld");
+    localStorage.setItem("PriceV4", "$259,99");
+    localStorage.setItem("TotalPriceV4", "$259,99");
+    localStorage.setItem("ImgV4", "https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Koe");
+    localStorage.setItem("DescriptionV5", "Deze koe heeft de lekkerste melk in de wereld");
+    localStorage.setItem("PriceV5", "$259,99");
+    localStorage.setItem("TotalPriceV5", "$259,99");
+    localStorage.setItem("ImgV5", "https://i.pinimg.com/originals/37/c6/1e/37c61ed757550d7f7d5b22f773da6582.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+function Cart4() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Paard");
+    localStorage.setItem("DescriptionV1", "Deze paard rent het hardst van ze allemaal");
+    localStorage.setItem("PriceV1", "$80,50");
+    localStorage.setItem("TotalPriceV1", "$80,50");
+    localStorage.setItem(
+      "ImgV1",
+      "https://purepng.com/public/uploads/large/91508180235kaecnplpbqjuutdrdvdn4cscrzytspbnwlb7cwt7vzgxlu6aa7f3kzbprldhtoz3bgj0xc36r53jbtdhmmc8vj1taklhlyj8o9dd.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Paard");
+    localStorage.setItem("DescriptionV2", "Deze paard rent het hardst van ze allemaal");
+    localStorage.setItem("PriceV2", "$80,50");
+    localStorage.setItem("TotalPriceV2", "$80,50");
+    localStorage.setItem(
+      "ImgV2",
+      "https://purepng.com/public/uploads/large/91508180235kaecnplpbqjuutdrdvdn4cscrzytspbnwlb7cwt7vzgxlu6aa7f3kzbprldhtoz3bgj0xc36r53jbtdhmmc8vj1taklhlyj8o9dd.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Paard");
+    localStorage.setItem("DescriptionV3", "Deze paard rent het hardst van ze allemaal");
+    localStorage.setItem("PriceV3", "$80,50");
+    localStorage.setItem("TotalPriceV3", "$80,50");
+    localStorage.setItem(
+      "ImgV3",
+      "https://purepng.com/public/uploads/large/91508180235kaecnplpbqjuutdrdvdn4cscrzytspbnwlb7cwt7vzgxlu6aa7f3kzbprldhtoz3bgj0xc36r53jbtdhmmc8vj1taklhlyj8o9dd.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Paard");
+    localStorage.setItem("DescriptionV4", "Deze paard rent het hardst van ze allemaal");
+    localStorage.setItem("PriceV4", "$80,50");
+    localStorage.setItem("TotalPriceV4", "$80,50");
+    localStorage.setItem(
+      "ImgV4",
+      "https://purepng.com/public/uploads/large/91508180235kaecnplpbqjuutdrdvdn4cscrzytspbnwlb7cwt7vzgxlu6aa7f3kzbprldhtoz3bgj0xc36r53jbtdhmmc8vj1taklhlyj8o9dd.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Paard");
+    localStorage.setItem("DescriptionV5", "Deze paard rent het hardst van ze allemaal");
+    localStorage.setItem("PriceV5", "$80,50");
+    localStorage.setItem("TotalPriceV5", "$80,50");
+    localStorage.setItem(
+      "ImgV5",
+      "https://purepng.com/public/uploads/large/91508180235kaecnplpbqjuutdrdvdn4cscrzytspbnwlb7cwt7vzgxlu6aa7f3kzbprldhtoz3bgj0xc36r53jbtdhmmc8vj1taklhlyj8o9dd.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+function Cart5() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Kip 2");
+    localStorage.setItem("DescriptionV1", "Deze kip kan hoog vliegen");
+    localStorage.setItem("PriceV1", "$5,99");
+    localStorage.setItem("TotalPriceV1", "$5,99");
+    localStorage.setItem("ImgV1", "https://i.pinimg.com/originals/66/e8/d3/66e8d3ba8e29d4ee4be9d909acba7f41.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Kip 2");
+    localStorage.setItem("DescriptionV2", "Deze kip kan hoog vliegen");
+    localStorage.setItem("PriceV2", "$5,99");
+    localStorage.setItem("TotalPriceV2", "$5,99");
+    localStorage.setItem("ImgV2", "https://i.pinimg.com/originals/66/e8/d3/66e8d3ba8e29d4ee4be9d909acba7f41.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Kip 2");
+    localStorage.setItem("DescriptionV3", "Deze kip kan hoog vliegen");
+    localStorage.setItem("PriceV3", "$5,99");
+    localStorage.setItem("TotalPriceV3", "$5,99");
+    localStorage.setItem("ImgV3", "https://i.pinimg.com/originals/66/e8/d3/66e8d3ba8e29d4ee4be9d909acba7f41.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Kip 2");
+    localStorage.setItem("DescriptionV4", "Deze kip kan hoog vliegen");
+    localStorage.setItem("PriceV4", "$5,99");
+    localStorage.setItem("TotalPriceV4", "$5,99");
+    localStorage.setItem("ImgV4", "https://i.pinimg.com/originals/66/e8/d3/66e8d3ba8e29d4ee4be9d909acba7f41.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Kip 2");
+    localStorage.setItem("DescriptionV5", "Deze kip kan hoog vliegen");
+    localStorage.setItem("PriceV5", "$5,99");
+    localStorage.setItem("TotalPriceV5", "$5,99");
+    localStorage.setItem("ImgV5", "https://i.pinimg.com/originals/66/e8/d3/66e8d3ba8e29d4ee4be9d909acba7f41.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+function Cart6() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Kip 3");
+    localStorage.setItem("DescriptionV1", "Deze kip is heel lekker");
+    localStorage.setItem("PriceV1", "$5,50");
+    localStorage.setItem("TotalPriceV1", "$5,50");
+    localStorage.setItem(
+      "ImgV1",
+      "https://purepng.com/public/uploads/large/purepng.com-grill-chickenfood-meat-chicken-grilled-941524616969gg9vh.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Kip 3");
+    localStorage.setItem("DescriptionV2", "Deze kip is heel lekker");
+    localStorage.setItem("PriceV2", "$5,50");
+    localStorage.setItem("TotalPriceV2", "$5,50");
+    localStorage.setItem(
+      "ImgV2",
+      "https://purepng.com/public/uploads/large/purepng.com-grill-chickenfood-meat-chicken-grilled-941524616969gg9vh.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Kip 3");
+    localStorage.setItem("DescriptionV3", "Deze kip is heel lekker");
+    localStorage.setItem("PriceV3", "$5,50");
+    localStorage.setItem("TotalPriceV3", "$5,50");
+    localStorage.setItem(
+      "ImgV3",
+      "https://purepng.com/public/uploads/large/purepng.com-grill-chickenfood-meat-chicken-grilled-941524616969gg9vh.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Kip 3");
+    localStorage.setItem("DescriptionV4", "Deze kip is heel lekker");
+    localStorage.setItem("PriceV4", "$5,50");
+    localStorage.setItem("TotalPriceV4", "$5,50");
+    localStorage.setItem(
+      "ImgV4",
+      "https://purepng.com/public/uploads/large/purepng.com-grill-chickenfood-meat-chicken-grilled-941524616969gg9vh.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Kip 3");
+    localStorage.setItem("DescriptionV5", "Deze kip is heel lekker");
+    localStorage.setItem("PriceV5", "$5,50");
+    localStorage.setItem("TotalPriceV5", "$5,50");
+    localStorage.setItem(
+      "ImgV5",
+      "https://purepng.com/public/uploads/large/purepng.com-grill-chickenfood-meat-chicken-grilled-941524616969gg9vh.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart7() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Kikker");
+    localStorage.setItem("DescriptionV1", "Deze kikker kan heel hoog springen");
+    localStorage.setItem("PriceV1", "$2,99");
+    localStorage.setItem("TotalPriceV1", "$2,99");
+    localStorage.setItem("ImgV1", "https://boazhuisman.nl/site/assets/files/1105/kikker-png-kikker-650.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Kikker");
+    localStorage.setItem("DescriptionV2", "Deze kikker kan heel hoog springen");
+    localStorage.setItem("PriceV2", "$2,99");
+    localStorage.setItem("TotalPriceV2", "$2,99");
+    localStorage.setItem("ImgV2", "https://boazhuisman.nl/site/assets/files/1105/kikker-png-kikker-650.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Kikker");
+    localStorage.setItem("DescriptionV3", "Deze kikker kan heel hoog springen");
+    localStorage.setItem("PriceV3", "$2,99");
+    localStorage.setItem("TotalPriceV3", "$2,99");
+    localStorage.setItem("ImgV3", "https://boazhuisman.nl/site/assets/files/1105/kikker-png-kikker-650.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Kikker");
+    localStorage.setItem("DescriptionV4", "Deze kikker kan heel hoog springen");
+    localStorage.setItem("PriceV4", "$2,99");
+    localStorage.setItem("TotalPriceV4", "$2,99");
+    localStorage.setItem("ImgV4", "https://boazhuisman.nl/site/assets/files/1105/kikker-png-kikker-650.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Kikker");
+    localStorage.setItem("DescriptionV5", "Deze kikker kan heel hoog springen");
+    localStorage.setItem("PriceV5", "$2,99");
+    localStorage.setItem("TotalPriceV5", "$2,99");
+    localStorage.setItem("ImgV5", "https://boazhuisman.nl/site/assets/files/1105/kikker-png-kikker-650.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart8() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Vogel");
+    localStorage.setItem("DescriptionV1", "Deze vogel is 3 jaar oud");
+    localStorage.setItem("PriceV1", "$10,00");
+    localStorage.setItem("TotalPriceV1", "$10,00");
+    localStorage.setItem("ImgV1", "https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Vogel");
+    localStorage.setItem("DescriptionV2", "Deze vogel is 3 jaar oud");
+    localStorage.setItem("PriceV2", "$10,00");
+    localStorage.setItem("TotalPriceV2", "$10,00");
+    localStorage.setItem("ImgV2", "https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Vogel");
+    localStorage.setItem("DescriptionV3", "Deze vogel is 3 jaar oud");
+    localStorage.setItem("PriceV3", "$10,00");
+    localStorage.setItem("TotalPriceV3", "$10,00");
+    localStorage.setItem("ImgV3", "https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Vogel");
+    localStorage.setItem("DescriptionV4", "Deze vogel is 3 jaar oud");
+    localStorage.setItem("PriceV4", "$10,00");
+    localStorage.setItem("TotalPriceV4", "$10,00");
+    localStorage.setItem("ImgV4", "https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Vogel");
+    localStorage.setItem("DescriptionV5", "Deze vogel is 3 jaar oud");
+    localStorage.setItem("PriceV5", "$10,00");
+    localStorage.setItem("TotalPriceV5", "$10,00");
+    localStorage.setItem("ImgV5", "https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416_1280.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart9() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Vogel 2");
+    localStorage.setItem("DescriptionV1", "Deze vogel is heel boos");
+    localStorage.setItem("PriceV1", "$3515,00");
+    localStorage.setItem("TotalPriceV1", "$3515,00");
+    localStorage.setItem(
+      "ImgV1",
+      "https://www.pngfind.com/pngs/b/328-3284940_angry-birds-movie-png-angry-birds-film-red.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Vogel 2");
+    localStorage.setItem("DescriptionV2", "Deze vogel is heel boos");
+    localStorage.setItem("PriceV2", "$3515,00");
+    localStorage.setItem("TotalPriceV2", "$3515,00");
+    localStorage.setItem(
+      "ImgV2",
+      "https://www.pngfind.com/pngs/b/328-3284940_angry-birds-movie-png-angry-birds-film-red.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Vogel 2");
+    localStorage.setItem("DescriptionV3", "Deze vogel is heel boos");
+    localStorage.setItem("PriceV3", "$3515,00");
+    localStorage.setItem("TotalPriceV3", "$3515,00");
+    localStorage.setItem(
+      "ImgV3",
+      "https://www.pngfind.com/pngs/b/328-3284940_angry-birds-movie-png-angry-birds-film-red.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Vogel 2");
+    localStorage.setItem("DescriptionV4", "Deze vogel is heel boos");
+    localStorage.setItem("PriceV4", "$3515,00");
+    localStorage.setItem("TotalPriceV4", "$3515,00");
+    localStorage.setItem(
+      "ImgV4",
+      "https://www.pngfind.com/pngs/b/328-3284940_angry-birds-movie-png-angry-birds-film-red.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Vogel 2");
+    localStorage.setItem("DescriptionV5", "Deze vogel is heel boos");
+    localStorage.setItem("PriceV5", "$3515,00");
+    localStorage.setItem("TotalPriceV5", "$3515,00");
+    localStorage.setItem(
+      "ImgV5",
+      "https://www.pngfind.com/pngs/b/328-3284940_angry-birds-movie-png-angry-birds-film-red.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart10() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Vogel 3");
+    localStorage.setItem("DescriptionV1", "Deze vogel is 20 jaar oud");
+    localStorage.setItem("PriceV1", "$13,50");
+    localStorage.setItem("TotalPriceV1", "$13,50");
+    localStorage.setItem(
+      "ImgV1",
+      "https://purepng.com/public/uploads/large/purepng.com-kingfisher-birdbirdsflyanimals-631522936498w5hgz.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Vogel 3");
+    localStorage.setItem("DescriptionV2", "Deze vogel is 20 jaar oud");
+    localStorage.setItem("PriceV2", "$13,50");
+    localStorage.setItem("TotalPriceV2", "$13,50");
+    localStorage.setItem(
+      "ImgV2",
+      "https://purepng.com/public/uploads/large/purepng.com-kingfisher-birdbirdsflyanimals-631522936498w5hgz.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Vogel 3");
+    localStorage.setItem("DescriptionV3", "Deze vogel is 20 jaar oud");
+    localStorage.setItem("PriceV3", "$13,50");
+    localStorage.setItem("TotalPriceV3", "$13,50");
+    localStorage.setItem(
+      "ImgV3",
+      "https://purepng.com/public/uploads/large/purepng.com-kingfisher-birdbirdsflyanimals-631522936498w5hgz.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Vogel 3");
+    localStorage.setItem("DescriptionV4", "Deze vogel is 20 jaar oud");
+    localStorage.setItem("PriceV4", "$13,50");
+    localStorage.setItem("TotalPriceV4", "$13,50");
+    localStorage.setItem(
+      "ImgV4",
+      "https://purepng.com/public/uploads/large/purepng.com-kingfisher-birdbirdsflyanimals-631522936498w5hgz.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Vogel 3");
+    localStorage.setItem("DescriptionV5", "Deze vogel is 20 jaar oud");
+    localStorage.setItem("PriceV5", "$13,50");
+    localStorage.setItem("TotalPriceV5", "$13,50");
+    localStorage.setItem(
+      "ImgV5",
+      "https://purepng.com/public/uploads/large/purepng.com-kingfisher-birdbirdsflyanimals-631522936498w5hgz.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart11() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Kat");
+    localStorage.setItem("DescriptionV1", "Deze kat is boos");
+    localStorage.setItem("PriceV1", "$20,00");
+    localStorage.setItem("TotalPriceV1", "$20,00");
+    localStorage.setItem(
+      "ImgV1",
+      "https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-happy-smile-cat-images-png-image_10276665.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Kat");
+    localStorage.setItem("DescriptionV2", "Deze kat is boos");
+    localStorage.setItem("PriceV2", "$20,00");
+    localStorage.setItem("TotalPriceV2", "$20,00");
+    localStorage.setItem(
+      "ImgV2",
+      "https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-happy-smile-cat-images-png-image_10276665.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Kat");
+    localStorage.setItem("DescriptionV3", "Deze kat is boos");
+    localStorage.setItem("PriceV3", "$20,00");
+    localStorage.setItem("TotalPriceV3", "$20,00");
+    localStorage.setItem(
+      "ImgV3",
+      "https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-happy-smile-cat-images-png-image_10276665.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Kat");
+    localStorage.setItem("DescriptionV4", "Deze kat is boos");
+    localStorage.setItem("PriceV4", "$20,00");
+    localStorage.setItem("TotalPriceV4", "$20,00");
+    localStorage.setItem(
+      "ImgV4",
+      "https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-happy-smile-cat-images-png-image_10276665.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Kat");
+    localStorage.setItem("DescriptionV5", "Deze kat is boos");
+    localStorage.setItem("PriceV5", "$20,00");
+    localStorage.setItem("TotalPriceV5", "$20,00");
+    localStorage.setItem(
+      "ImgV5",
+      "https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-happy-smile-cat-images-png-image_10276665.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart12() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Hond");
+    localStorage.setItem("DescriptionV1", "Deze hond beschermt jou");
+    localStorage.setItem("PriceV1", "$35,00");
+    localStorage.setItem("TotalPriceV1", "$35,00");
+    localStorage.setItem(
+      "ImgV1",
+      "https://static.vecteezy.com/system/resources/thumbnails/016/761/881/small/the-dog-smiles-because-he-is-happy-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Hond");
+    localStorage.setItem("DescriptionV2", "Deze hond beschermt jou");
+    localStorage.setItem("PriceV2", "$35,00");
+    localStorage.setItem("TotalPriceV2", "$35,00");
+    localStorage.setItem(
+      "ImgV2",
+      "https://static.vecteezy.com/system/resources/thumbnails/016/761/881/small/the-dog-smiles-because-he-is-happy-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Hond");
+    localStorage.setItem("DescriptionV3", "Deze hond beschermt jou");
+    localStorage.setItem("PriceV3", "$35,00");
+    localStorage.setItem("TotalPriceV3", "$35,00");
+    localStorage.setItem(
+      "ImgV3",
+      "https://static.vecteezy.com/system/resources/thumbnails/016/761/881/small/the-dog-smiles-because-he-is-happy-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Hond");
+    localStorage.setItem("DescriptionV4", "Deze hond beschermt jou");
+    localStorage.setItem("PriceV4", "$35,00");
+    localStorage.setItem("TotalPriceV4", "$35,00");
+    localStorage.setItem(
+      "ImgV4",
+      "https://static.vecteezy.com/system/resources/thumbnails/016/761/881/small/the-dog-smiles-because-he-is-happy-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Hond");
+    localStorage.setItem("DescriptionV5", "Deze hond beschermt jou");
+    localStorage.setItem("PriceV5", "$35,00");
+    localStorage.setItem("TotalPriceV5", "$35,00");
+    localStorage.setItem(
+      "ImgV5",
+      "https://static.vecteezy.com/system/resources/thumbnails/016/761/881/small/the-dog-smiles-because-he-is-happy-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+function Cart13() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Hond 2");
+    localStorage.setItem("DescriptionV1", "Deze hond poept veel");
+    localStorage.setItem("PriceV1", "$55,00");
+    localStorage.setItem("TotalPriceV1", "$55,00");
+    localStorage.setItem("ImgV1", "https://www.deuitgelatenhond.nl/wp-content/uploads/2016/07/Dog-PNG-10.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Hond 2");
+    localStorage.setItem("DescriptionV2", "Deze hond poept veel");
+    localStorage.setItem("PriceV2", "$55,00");
+    localStorage.setItem("TotalPriceV2", "$55,00");
+    localStorage.setItem("ImgV2", "https://www.deuitgelatenhond.nl/wp-content/uploads/2016/07/Dog-PNG-10.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Hond 2");
+    localStorage.setItem("DescriptionV3", "Deze hond poept veel");
+    localStorage.setItem("PriceV3", "$55,00");
+    localStorage.setItem("TotalPriceV3", "$55,00");
+    localStorage.setItem("ImgV3", "https://www.deuitgelatenhond.nl/wp-content/uploads/2016/07/Dog-PNG-10.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Hond 2");
+    localStorage.setItem("DescriptionV4", "Deze hond poept veel");
+    localStorage.setItem("PriceV4", "$55,00");
+    localStorage.setItem("TotalPriceV4", "$55,00");
+    localStorage.setItem("ImgV4", "https://www.deuitgelatenhond.nl/wp-content/uploads/2016/07/Dog-PNG-10.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Hond 2");
+    localStorage.setItem("DescriptionV5", "Deze hond poept veel");
+    localStorage.setItem("PriceV5", "$55,00");
+    localStorage.setItem("TotalPriceV5", "$55,00");
+    localStorage.setItem("ImgV5", "https://www.deuitgelatenhond.nl/wp-content/uploads/2016/07/Dog-PNG-10.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart14() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Hond 3");
+    localStorage.setItem("DescriptionV1", "Deze hond is van ijs gemaakt");
+    localStorage.setItem("PriceV1", "$49,99");
+    localStorage.setItem("TotalPriceV1", "$49,99");
+    localStorage.setItem(
+      "ImgV1",
+      "https://purepng.com/public/uploads/large/purepng.com-doganimalsdogboy-981524673092o91pm.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Hond 3");
+    localStorage.setItem("DescriptionV2", "Deze hond is van ijs gemaakt");
+    localStorage.setItem("PriceV2", "$49,99");
+    localStorage.setItem("TotalPriceV2", "$49,99");
+    localStorage.setItem(
+      "ImgV2",
+      "https://purepng.com/public/uploads/large/purepng.com-doganimalsdogboy-981524673092o91pm.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Hond 3");
+    localStorage.setItem("DescriptionV3", "Deze hond is van ijs gemaakt");
+    localStorage.setItem("PriceV3", "$49,99");
+    localStorage.setItem("TotalPriceV3", "$49,99");
+    localStorage.setItem(
+      "ImgV3",
+      "https://purepng.com/public/uploads/large/purepng.com-doganimalsdogboy-981524673092o91pm.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Hond 3");
+    localStorage.setItem("DescriptionV4", "Deze hond is van ijs gemaakt");
+    localStorage.setItem("PriceV4", "$49,99");
+    localStorage.setItem("TotalPriceV4", "$49,99");
+    localStorage.setItem(
+      "ImgV4",
+      "https://purepng.com/public/uploads/large/purepng.com-doganimalsdogboy-981524673092o91pm.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Hond 3");
+    localStorage.setItem("DescriptionV5", "Deze hond is van ijs gemaakt");
+    localStorage.setItem("PriceV5", "$49,99");
+    localStorage.setItem("TotalPriceV5", "$49,99");
+    localStorage.setItem(
+      "ImgV5",
+      "https://purepng.com/public/uploads/large/purepng.com-doganimalsdogboy-981524673092o91pm.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart15() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Hond 4");
+    localStorage.setItem("DescriptionV1", "Deze Dogg is een goeie artiest");
+    localStorage.setItem("PriceV1", "$100,000,00");
+    localStorage.setItem("TotalPriceV1", "$100,000,00");
+    localStorage.setItem("ImgV1", "https://i.pinimg.com/originals/48/02/8f/48028fb2a43ed318ffc5b3d0338ca8bb.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Hond 4");
+    localStorage.setItem("DescriptionV2", "Deze Dogg is een goeie artiest");
+    localStorage.setItem("PriceV2", "$100,000,00");
+    localStorage.setItem("TotalPriceV2", "$100,000,00");
+    localStorage.setItem("ImgV2", "https://i.pinimg.com/originals/48/02/8f/48028fb2a43ed318ffc5b3d0338ca8bb.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Hond 4");
+    localStorage.setItem("DescriptionV3", "Deze Dogg is een goeie artiest");
+    localStorage.setItem("PriceV3", "$100,000,00");
+    localStorage.setItem("TotalPriceV3", "$100,000,00");
+    localStorage.setItem("ImgV3", "https://i.pinimg.com/originals/48/02/8f/48028fb2a43ed318ffc5b3d0338ca8bb.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Hond 4");
+    localStorage.setItem("DescriptionV4", "Deze Dogg is een goeie artiest");
+    localStorage.setItem("PriceV4", "$100,000,00");
+    localStorage.setItem("TotalPriceV4", "$100,000,00");
+    localStorage.setItem("ImgV4", "https://i.pinimg.com/originals/48/02/8f/48028fb2a43ed318ffc5b3d0338ca8bb.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Hond 4");
+    localStorage.setItem("DescriptionV5", "Deze Dogg is een goeie artiest");
+    localStorage.setItem("PriceV5", "$100,000,00");
+    localStorage.setItem("TotalPriceV5", "$100,000,00");
+    localStorage.setItem("ImgV5", "https://i.pinimg.com/originals/48/02/8f/48028fb2a43ed318ffc5b3d0338ca8bb.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart16() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Varken");
+    localStorage.setItem("DescriptionV1", "Dit is een varken");
+    localStorage.setItem("PriceV1", "$150,00");
+    localStorage.setItem("TotalPriceV1", "$150,00");
+    localStorage.setItem(
+      "ImgV1",
+      "https://static.vecteezy.com/system/resources/previews/024/722/277/non_2x/pig-with-ai-generated-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Varken");
+    localStorage.setItem("DescriptionV2", "Dit is een varken");
+    localStorage.setItem("PriceV2", "$150,00");
+    localStorage.setItem("TotalPriceV2", "$150,00");
+    localStorage.setItem(
+      "ImgV2",
+      "https://static.vecteezy.com/system/resources/previews/024/722/277/non_2x/pig-with-ai-generated-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Varken");
+    localStorage.setItem("DescriptionV3", "Dit is een varken");
+    localStorage.setItem("PriceV3", "$150,00");
+    localStorage.setItem("TotalPriceV3", "$150,00");
+    localStorage.setItem(
+      "ImgV3",
+      "https://static.vecteezy.com/system/resources/previews/024/722/277/non_2x/pig-with-ai-generated-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Varken");
+    localStorage.setItem("DescriptionV4", "Dit is een varken");
+    localStorage.setItem("PriceV4", "$150,00");
+    localStorage.setItem("TotalPriceV4", "$150,00");
+    localStorage.setItem(
+      "ImgV4",
+      "https://static.vecteezy.com/system/resources/previews/024/722/277/non_2x/pig-with-ai-generated-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Varken");
+    localStorage.setItem("DescriptionV5", "Dit is een varken");
+    localStorage.setItem("PriceV5", "$150,00");
+    localStorage.setItem("TotalPriceV5", "$150,00");
+    localStorage.setItem(
+      "ImgV5",
+      "https://static.vecteezy.com/system/resources/previews/024/722/277/non_2x/pig-with-ai-generated-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart17() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Ei");
+    localStorage.setItem("DescriptionV1", "Niemand weet wat hier in zit");
+    localStorage.setItem("PriceV1", "$100,00");
+    localStorage.setItem("TotalPriceV1", "$100,00");
+    localStorage.setItem(
+      "ImgV1",
+      "https://static.vecteezy.com/system/resources/previews/009/339/329/non_2x/chicken-egg-raw-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Ei");
+    localStorage.setItem("DescriptionV2", "Niemand weet wat hier in zit");
+    localStorage.setItem("PriceV2", "$100,00");
+    localStorage.setItem("TotalPriceV2", "$100,00");
+    localStorage.setItem(
+      "ImgV2",
+      "https://static.vecteezy.com/system/resources/previews/009/339/329/non_2x/chicken-egg-raw-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Ei");
+    localStorage.setItem("DescriptionV3", "Niemand weet wat hier in zit");
+    localStorage.setItem("PriceV3", "$100,00");
+    localStorage.setItem("TotalPriceV3", "$100,00");
+    localStorage.setItem(
+      "ImgV3",
+      "https://static.vecteezy.com/system/resources/previews/009/339/329/non_2x/chicken-egg-raw-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Ei");
+    localStorage.setItem("DescriptionV4", "Niemand weet wat hier in zit");
+    localStorage.setItem("PriceV4", "$100,00");
+    localStorage.setItem("TotalPriceV4", "$100,00");
+    localStorage.setItem(
+      "ImgV4",
+      "https://static.vecteezy.com/system/resources/previews/009/339/329/non_2x/chicken-egg-raw-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Ei");
+    localStorage.setItem("DescriptionV5", "Niemand weet wat hier in zit");
+    localStorage.setItem("PriceV5", "$100,00");
+    localStorage.setItem("TotalPriceV5", "$100,00");
+    localStorage.setItem(
+      "ImgV5",
+      "https://static.vecteezy.com/system/resources/previews/009/339/329/non_2x/chicken-egg-raw-free-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart18() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Worm");
+    localStorage.setItem("DescriptionV1", "Dit is een worm");
+    localStorage.setItem("PriceV1", "$0,50");
+    localStorage.setItem("TotalPriceV1", "$0,50");
+    localStorage.setItem(
+      "ImgV1",
+      "https://static.vecteezy.com/system/resources/thumbnails/018/925/494/small/worm-flat-color-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Worm");
+    localStorage.setItem("DescriptionV2", "Dit is een worm");
+    localStorage.setItem("PriceV2", "$0,50");
+    localStorage.setItem("TotalPriceV2", "$0,50");
+    localStorage.setItem(
+      "ImgV2",
+      "https://static.vecteezy.com/system/resources/thumbnails/018/925/494/small/worm-flat-color-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Worm");
+    localStorage.setItem("DescriptionV3", "Dit is een worm");
+    localStorage.setItem("PriceV3", "$0,50");
+    localStorage.setItem("TotalPriceV3", "$0,50");
+    localStorage.setItem(
+      "ImgV3",
+      "https://static.vecteezy.com/system/resources/thumbnails/018/925/494/small/worm-flat-color-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Worm");
+    localStorage.setItem("DescriptionV4", "Dit is een worm");
+    localStorage.setItem("PriceV4", "$0,50");
+    localStorage.setItem("TotalPriceV4", "$0,50");
+    localStorage.setItem(
+      "ImgV4",
+      "https://static.vecteezy.com/system/resources/thumbnails/018/925/494/small/worm-flat-color-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Worm");
+    localStorage.setItem("DescriptionV5", "Dit is een worm");
+    localStorage.setItem("PriceV5", "$0,50");
+    localStorage.setItem("TotalPriceV5", "$0,50");
+    localStorage.setItem(
+      "ImgV5",
+      "https://static.vecteezy.com/system/resources/thumbnails/018/925/494/small/worm-flat-color-png.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+function Cart19() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Olifant");
+    localStorage.setItem("DescriptionV1", "Hij spuit water op je");
+    localStorage.setItem("PriceV1", "$249,99");
+    localStorage.setItem("TotalPriceV1", "$249,99");
+    localStorage.setItem("ImgV1", "https://cdn.pixabay.com/photo/2022/07/01/14/35/elephant-7295737_960_720.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Olifant");
+    localStorage.setItem("DescriptionV2", "Hij spuit water op je");
+    localStorage.setItem("PriceV2", "$249,99");
+    localStorage.setItem("TotalPriceV2", "$249,99");
+    localStorage.setItem("ImgV2", "https://cdn.pixabay.com/photo/2022/07/01/14/35/elephant-7295737_960_720.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Olifant");
+    localStorage.setItem("DescriptionV3", "Hij spuit water op je");
+    localStorage.setItem("PriceV3", "$249,99");
+    localStorage.setItem("TotalPriceV3", "$249,99");
+    localStorage.setItem("ImgV3", "https://cdn.pixabay.com/photo/2022/07/01/14/35/elephant-7295737_960_720.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Olifant");
+    localStorage.setItem("DescriptionV4", "Hij spuit water op je");
+    localStorage.setItem("PriceV4", "$249,99");
+    localStorage.setItem("TotalPriceV4", "$249,99");
+    localStorage.setItem("ImgV4", "https://cdn.pixabay.com/photo/2022/07/01/14/35/elephant-7295737_960_720.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Olifant");
+    localStorage.setItem("DescriptionV5", "Hij spuit water op je");
+    localStorage.setItem("PriceV5", "$249,99");
+    localStorage.setItem("TotalPriceV5", "$249,99");
+    localStorage.setItem("ImgV5", "https://cdn.pixabay.com/photo/2022/07/01/14/35/elephant-7295737_960_720.png");
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+function Cart20() {
+  if (box1Available == true) {
+    localStorage.setItem("TitleV1", "Giraffe");
+    localStorage.setItem("DescriptionV1", "Heeft een lange nek");
+    localStorage.setItem("PriceV1", "$777,77");
+    localStorage.setItem("TotalPriceV1", "$777,77");
+    localStorage.setItem(
+      "ImgV1",
+      "https://www.pngfind.com/pngs/b/469-4697564_19-giraffe-png-freeuse-stock-huge-freebie-download.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box1Available = false;
+  } else if (box2Available == true) {
+    localStorage.setItem("TitleV2", "Giraffe");
+    localStorage.setItem("DescriptionV2", "Heeft een lange nek");
+    localStorage.setItem("PriceV2", "$777,77");
+    localStorage.setItem("TotalPriceV2", "$777,77");
+    localStorage.setItem(
+      "ImgV2",
+      "https://www.pngfind.com/pngs/b/469-4697564_19-giraffe-png-freeuse-stock-huge-freebie-download.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box2Available = false;
+  } else if (box3Available == true) {
+    localStorage.setItem("TitleV3", "Giraffe");
+    localStorage.setItem("DescriptionV3", "Heeft een lange nek");
+    localStorage.setItem("PriceV3", "$777,77");
+    localStorage.setItem("TotalPriceV3", "$777,77");
+    localStorage.setItem(
+      "ImgV3",
+      "https://www.pngfind.com/pngs/b/469-4697564_19-giraffe-png-freeuse-stock-huge-freebie-download.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box3Available = false;
+  } else if (box4Available == true) {
+    localStorage.setItem("TitleV4", "Giraffe");
+    localStorage.setItem("DescriptionV4", "Heeft een lange nek");
+    localStorage.setItem("PriceV4", "$777,77");
+    localStorage.setItem("TotalPriceV4", "$777,77");
+    localStorage.setItem(
+      "ImgV4",
+      "https://www.pngfind.com/pngs/b/469-4697564_19-giraffe-png-freeuse-stock-huge-freebie-download.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box4Available = false;
+  } else if (box5Available == true) {
+    localStorage.setItem("TitleV5", "Giraffe");
+    localStorage.setItem("DescriptionV5", "Heeft een lange nek");
+    localStorage.setItem("PriceV5", "$777,77");
+    localStorage.setItem("TotalPriceV5", "$777,77");
+    localStorage.setItem(
+      "ImgV5",
+      "https://www.pngfind.com/pngs/b/469-4697564_19-giraffe-png-freeuse-stock-huge-freebie-download.png"
+    );
+    alert("Product toegevoegd aan winkelwagen");
+    box5Available = false;
+  } else {
+    alert("Maximaal aantal producten in winkelwagen bereikt.");
+  }
+}
+
+
+var TitleV1 = localStorage.getItem("TitleV1");
+var DescriptionV1 = localStorage.getItem("DescriptionV1");
+var PriceV1 = localStorage.getItem("PriceV1");
+var TotalPriceV1 = localStorage.getItem("TotalPriceV1");
+var ImgV1 = localStorage.getItem("ImgV1");
+
+var TitleV2 = localStorage.getItem("TitleV2");
+var DescriptionV2 = localStorage.getItem("DescriptionV2");
+var PriceV2 = localStorage.getItem("PriceV2");
+var TotalPriceV2 = localStorage.getItem("TotalPriceV2");
+var ImgV2 = localStorage.getItem("ImgV2");
+
+var TitleV3 = localStorage.getItem("TitleV3");
+var DescriptionV3 = localStorage.getItem("DescriptionV3");
+var PriceV3 = localStorage.getItem("PriceV3");
+var TotalPriceV3 = localStorage.getItem("TotalPriceV3");
+var ImgV3 = localStorage.getItem("ImgV3");
+
+var TitleV4 = localStorage.getItem("TitleV4");
+var DescriptionV4 = localStorage.getItem("DescriptionV4");
+var PriceV4 = localStorage.getItem("PriceV4");
+var TotalPriceV4 = localStorage.getItem("TotalPriceV4");
+var ImgV4 = localStorage.getItem("ImgV4");
+
+var TitleV5 = localStorage.getItem("TitleV5");
+var DescriptionV5 = localStorage.getItem("DescriptionV5");
+var PriceV5 = localStorage.getItem("PriceV5");
+var TotalPriceV5 = localStorage.getItem("TotalPriceV5");
+var ImgV5 = localStorage.getItem("ImgV5");
+
+
+function Deleting() {
+  Box1Available = true
+  Box2Available = true
+  Box3Available = true
+  Box4Available = true
+  Box5Available = true
+
+  TitleV1 = "";
+  DescriptionV1 = "";
+  PriceV1 = "";
+  TotalPriceV1 = "";
+  ImgV1 = "";
+  
+  TitleV2 = "";
+  DescriptionV2 = "";
+  PriceV2 = "";
+  TotalPriceV2 = "";
+  ImgV2 = "";
+  
+  TitleV3 = "";
+  DescriptionV3 = "";
+  PriceV3 = "";
+  TotalPriceV3 = "";
+  ImgV3 = "";
+
+  TitleV4 = "";
+  DescriptionV4 = "";
+  PriceV4 = "";
+  TotalPriceV4 = "";
+  ImgV4 = "";
+
+  TitleV5 = "";
+  DescriptionV5 = "";
+  PriceV5 = "";
+  TotalPriceV5 = "";
+  ImgV5 = "";
+
+  // Update de DOM om de lege waarden te weerspiegelen
+  document.getElementById("title1").innerText = TitleV1;
+  document.getElementById("description1").innerText = DescriptionV1;
+  document.getElementById("price1").innerText = PriceV1;
+  document.getElementById("totalprice1").innerText = TotalPriceV1;
+  document.getElementById("productImage1").setAttribute("src", ImgV1);
+
+  localStorage.removeItem("TitleV1");
+  localStorage.removeItem("DescriptionV1");
+  localStorage.removeItem("PriceV1");
+  localStorage.removeItem("TotalPriceV1");
+  localStorage.removeItem("ImgV1");
+
+  document.getElementById("title2").innerText = TitleV2;
+  document.getElementById("description2").innerText = DescriptionV2;
+  document.getElementById("price2").innerText = PriceV2;
+  document.getElementById("totalprice2").innerText = TotalPriceV2;
+  document.getElementById("productImage2").setAttribute("src", ImgV2);
+
+  localStorage.removeItem("TitleV2");
+  localStorage.removeItem("DescriptionV2");
+  localStorage.removeItem("PriceV2");
+  localStorage.removeItem("TotalPriceV2");
+  localStorage.removeItem("ImgV2");
+
+  document.getElementById("title3").innerText = TitleV3;
+  document.getElementById("description3").innerText = DescriptionV3;
+  document.getElementById("price3").innerText = PriceV3;
+  document.getElementById("totalprice3").innerText = TotalPriceV3;
+  document.getElementById("productImage3").setAttribute("src", ImgV3);
+
+  localStorage.removeItem("TitleV3");
+  localStorage.removeItem("DescriptionV3");
+  localStorage.removeItem("PriceV3");
+  localStorage.removeItem("TotalPriceV3");
+  localStorage.removeItem("ImgV3");
+
+  document.getElementById("title4").innerText = TitleV4;
+  document.getElementById("description4").innerText = DescriptionV4;
+  document.getElementById("price4").innerText = PriceV4;
+  document.getElementById("totalprice4").innerText = TotalPriceV4;
+  document.getElementById("productImage4").setAttribute("src", ImgV4);
+
+  localStorage.removeItem("TitleV4");
+  localStorage.removeItem("DescriptionV4");
+  localStorage.removeItem("PriceV4");
+  localStorage.removeItem("TotalPriceV4");
+  localStorage.removeItem("ImgV4");
+
+  document.getElementById("title5").innerText = TitleV5;
+  document.getElementById("description5").innerText = DescriptionV5;
+  document.getElementById("price5").innerText = PriceV5;
+  document.getElementById("totalprice5").innerText = TotalPriceV5;
+  document.getElementById("productImage5").setAttribute("src", ImgV5);
+
+  localStorage.removeItem("TitleV5");
+  localStorage.removeItem("DescriptionV5");
+  localStorage.removeItem("PriceV5");
+  localStorage.removeItem("TotalPriceV5");
+  localStorage.removeItem("ImgV5");
+
+  
+}
+
+
+
+
+
+      document.getElementById("title1").innerText = "<?php echo $_SESSION['TitleV1']; ?>";
+document.getElementById("description1").innerText = "<?php echo $DescriptionV1; ?>";
+document.getElementById("price1").innerText = "<?php echo $PriceV1; ?>";
+document.getElementById("totalprice1").innerText = "<?php echo $TotalPriceV1; ?>";
+document.getElementById("productImage1").setAttribute("src", "<?php echo $ImgV1; ?>");
+
+document.getElementById("title2").innerText = "<?php echo $_SESSION['TitleV2']; ?>";
+document.getElementById("description2").innerText = "<?php echo $DescriptionV2; ?>";
+document.getElementById("price2").innerText = "<?php echo $PriceV2; ?>";
+document.getElementById("totalprice2").innerText = "<?php echo $TotalPriceV2; ?>";
+document.getElementById("productImage2").setAttribute("src", "<?php echo $ImgV2; ?>");
+
+document.getElementById("title3").innerText = "<?php echo $_SESSION['TitleV3']; ?>";
+document.getElementById("description3").innerText = "<?php echo $DescriptionV3; ?>";
+document.getElementById("price3").innerText = "<?php echo $PriceV3; ?>";
+document.getElementById("totalprice3").innerText = "<?php echo $TotalPriceV3; ?>";
+document.getElementById("productImage3").setAttribute("src", "<?php echo $ImgV3; ?>");
+
+document.getElementById("title4").innerText = "<?php echo $_SESSION['TitleV4']; ?>";
+document.getElementById("description4").innerText = "<?php echo $DescriptionV4; ?>";
+document.getElementById("price4").innerText = "<?php echo $PriceV4; ?>";
+document.getElementById("totalprice4").innerText = "<?php echo $TotalPriceV4; ?>";
+document.getElementById("productImage4").setAttribute("src", "<?php echo $ImgV4; ?>");
+
+document.getElementById("title5").innerText = "<?php echo $_SESSION['TitleV5']; ?>";
+document.getElementById("description5").innerText = "<?php echo $DescriptionV5; ?>";
+document.getElementById("price5").innerText = "<?php echo $PriceV5; ?>";
+document.getElementById("totalprice5").innerText = "<?php echo $TotalPriceV5; ?>";
+document.getElementById("productImage5").setAttribute("src", "<?php echo $ImgV5; ?>");
+
+
+else {
+        if(!isset($_SESSION['TitleV2'])) {
+            if(isset($_SESSION['QuantitiesV2']) && $_SESSION['QuantitiesV2'] >= 1) {
+                $_SESSION['QuantitiesV2']++;
+            } else {
+                $_SESSION['TitleV2'] = "Paard";
+                $_SESSION['DescriptionV2'] = "Deze paard is blij.";
+                $_SESSION['PriceV2'] = "$12,99";
+                $_SESSION['ImgV2'] = "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png";
+                $_SESSION['QuantitiesV2'] = "1";
+            }
+        } else {
+            if(!isset($_SESSION['TitleV3'])) {
+                if(isset($_SESSION['QuantitiesV3']) && $_SESSION['QuantitiesV3'] >= 1) {
+                    $_SESSION['QuantitiesV3']++;
+                } else {
+                    $_SESSION['TitleV3'] = "Paard";
+                    $_SESSION['DescriptionV3'] = "Deze paard is blij.";
+                    $_SESSION['PriceV3'] = "$12,99";
+                    $_SESSION['ImgV3'] = "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png";
+                    $_SESSION['QuantitiesV3'] = "1";
+                }
+            } else {
+                if(!isset($_SESSION['TitleV4'])) {
+                    if(isset($_SESSION['QuantitiesV4']) && $_SESSION['QuantitiesV4'] >= 1) {
+                        $_SESSION['QuantitiesV4']++;
+                    } else {
+                        $_SESSION['TitleV4'] = "Paard";
+                        $_SESSION['DescriptionV4'] = "Deze paard is blij.";
+                        $_SESSION['PriceV4'] = "$12,99";
+                        $_SESSION['ImgV4'] = "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png";
+                        $_SESSION['QuantitiesV4'] = "1";
+                    }
+                } else {
+                    if(!isset($_SESSION['TitleV5'])) {
+                        if(isset($_SESSION['QuantitiesV5']) && $_SESSION['QuantitiesV5'] >= 1) {
+                            $_SESSION['QuantitiesV5']++;
+                        } else {
+                            $_SESSION['TitleV5'] = "Paard";
+                            $_SESSION['DescriptionV5'] = "Deze paard is blij.";
+                            $_SESSION['PriceV5'] = "$12,99";
+                            $_SESSION['ImgV5'] = "https://cdn.pixabay.com/photo/2016/03/31/22/49/horse-1297225_1280.png";
+                            $_SESSION['QuantitiesV5'] = "1";
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+
+                document.getElementById("totalprice1").innerText = "<?php echo $_SESSION['TotalPriceV1']; ?>";
+      document.getElementById("totalprice1").innerText = "<?php echo isset($_SESSION['TotalPriceV1']) ? $_SESSION['TotalPriceV1'] : ''; ?>";

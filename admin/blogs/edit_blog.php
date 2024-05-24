@@ -61,9 +61,7 @@ if (isset($_POST['submit'])) {
 
 <?php
 if (isset($_POST['submit'])) {
-    if ($id === false || $id <= 0 || $id >= 100) {
-        echo "Ongeldige ID. Voer een positief heel getal onder de 100 in.";
-    } else {
+   
         // Controleer of het ID al bestaat, behalve voor de huidige blog
         $sql = "SELECT COUNT(*) FROM blogs WHERE id = ? AND id <> ?";
         $stmt = $con->prepare($sql);
@@ -73,13 +71,11 @@ if (isset($_POST['submit'])) {
         $stmt->fetch();
         $stmt->close();
 
-        if ($count > 0) {
-            echo "Dit ID is al in gebruik door een andere blog.";
-        } else if (!preg_match("/^[a-zA-Z0-9 ]*$/", $blog_bericht)) {
-            echo "Ongeldige bericht. Gebruik alleen letters en cijfers.";
-        } else if (!preg_match("/^[a-zA-Z0-9 .,'']*$/", $blog_maker)) {
+        if (!preg_match("/^[^;<>={}]+$/", $blog_bericht)) {
+            echo "Ongeldige bericht. De volgende symbolen zijn niet toegestaan: ; < > = { }";
+        } else if (!preg_match("/^[a-zA-Z0-9 .,'']+$/", $blog_maker)) {
             echo "Ongeldige maker. Gebruik alleen letters, cijfers, spaties, en de symbolen . , '";
-        } else {
+        }else {
             $laatst_edit = date('Y-m-d H:i:s'); // Huidige datum en tijd
 
             // Query om de blog bij te werken met de opgegeven id
@@ -103,7 +99,7 @@ if (isset($_POST['submit'])) {
             }
         }
     }
-}
+
 ?>
 
 <?php

@@ -1,0 +1,2346 @@
+
+
+/* Display rechthoek */
+#Display1{
+    width: 1250px;
+    height: 1880px;
+    max-width: 1250px;
+    max-height: 1900px;
+    margin: -8px ;
+    margin-top: -20px;
+  }
+  #Display2{
+    width: 1250px;
+    height: 1300px;
+    max-width: 1250px;
+    max-height: 1900px;
+    margin: -8px ;
+    margin-top: -20px;
+  }
+  #Display3{
+    width: 1250px;
+    height: 690px;
+    max-width: 1250px;
+    max-height: 1900px;
+    margin: -8px ;
+    margin-top: -20px;
+  }
+  #Display4{
+    width: 1250px;
+    height: 700px;
+    max-width: 1250px;
+    max-height: 1900px;
+    margin: -8px ;
+    margin-top: -20px;
+  }
+  #Display5{
+    width: 1250px;
+    height: 1880px;
+    max-width: 1250px;
+    max-height: 1900px;
+    margin: -8px ;
+    margin-top: -20px;
+  }
+  
+  /* 1ste rechthoek */
+  #RH1{
+    position: relative;
+    background-color: rgb(243, 245, 243);
+    width: 1250px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: 20px;
+    height: 40px
+  
+   
+    
+  }
+  /* 2de rechthoek */
+  #RH2{
+    background-color: rgb(42, 152, 53);
+    height: 100px;
+   width: 100%;
+   position: relative;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: -1.5px;
+  }
+  /* 3rde rechthoek */
+  #RH3{
+    background-color: rgb(220, 237, 208);
+    margin-top: -1.5px;
+   position: relative;
+   height: 1600px;
+   width: 100%;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+  
+  }
+  #RH35{
+    background-color: rgb(220, 237, 208);
+    height: 10x50px;
+   width: 100%;
+   position: relative;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: -1.5px;
+  }
+  
+  /* 4rde rechthoek */
+  #RH4{
+    position: relative;
+    background-color: rgb(125, 241, 127);
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: -100.5px;
+    width: 100%;
+    height: 200px;
+  }
+  /* 5de rechthoek */
+  #RH5{
+    background-color: rgb(34, 116, 12);
+    height: 40px;
+   width: 100%;
+   position: relative;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: 0px;
+  }
+   /* Credits in de 5de rechthoek verplaatsen */
+  #Credits{
+    position: relative;
+    top: -10px;
+    color: white;
+  }
+  
+  /* select box verplaatsen */
+  #taaltext{
+    position: relative;
+    top: -12px;
+    left: 20px;
+  }
+   /* account info rechtboven */
+  #talen{
+    position:relative;
+  }
+  
+  #Acc{
+  color: rgb(4, 103, 7);
+  left:900px;
+  top: -15px;
+  position:relative
+  }
+  
+  /* logo */
+  #logo{
+   width: 10px;
+   left: 3%;
+   top: 5%;
+   position: absolute;
+  }
+  
+  /* Home en de andere woorden verplaatsen */
+  #Categorieen{
+    position:absolute;
+    left:10%;
+    top:10%;
+    word-spacing: 10px;
+  }
+  
+  /* woorden veranderen(classes) */
+  
+  
+  .p1{
+    position:absolute;
+    color: white;
+    left:70%;
+    top:30%
+  }
+  .p2{
+    position:absolute;
+    color: white;
+    left:76%;
+    top:30%
+  }
+  .p3{
+    position:absolute;
+    color: white;
+    left:83%;
+    top:30%
+  
+  }
+   /* hoeveel er in je winkelwagen zit verplaatsen */
+  #WinkelwagenCounter
+  {
+    position:absolute;
+    left: 92%;
+  }
+  
+  /* container voor paar woorden  */
+  .container {
+    border: 2px solid #000000;
+    border-right-width:5px ;
+    border-bottom-width:5px ;
+    padding: 5px;
+    background-color: rgb(22, 91, 11);
+    opacity: 0.6;
+    transition: 0.3s;
+  }
+  .container:hover {opacity: 1}
+   /* Alle boxes die links staan in de grootste rechthoek */
+  #Doosjes{
+    position:absolute;
+    border: 2px solid #000000;
+    border-top-width: 10px;
+    border-top-color:  rgb(44, 158, 22);  /* Hier geef je de bovenste rand een rode kleur */
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 50px;
+    background-color: rgb(141, 250, 163);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #Doosjes:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+   
+    
+  }
+  #SelectieVerfijnen{
+    position:absolute;
+    border: 2px solid #000000;
+    border-top-width: 10px;
+    border-top-color: rgb(44, 158, 22); /* Hier geef je de bovenste rand een rode kleur */
+    padding: 5px;
+    width: 200px;
+    height: 175px;
+    margin-left: 30px;
+    margin-top: 250px;
+    background-color: rgb(141, 250, 163);
+    transition: .1s linear;
+  }
+  #SelectieVerfijnen:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+  }
+  #Prijs{
+    position:absolute;
+    border: 2px solid #000000;
+    border-top-width: 10px;
+    border-top-color:  rgb(44, 158, 22);  /* Hier geef je de bovenste rand een rode kleur */
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 475px;
+    background-color: rgb(141, 250, 163);
+    transition: .1s linear;
+  }
+  #Prijs:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+  }
+  
+  #Nieuwsbrief{
+    position:absolute;
+    border: 2px solid #000000;
+    border-top-width: 10px;
+    border-top-color: rgb(44, 158, 22);  /* Hier geef je de bovenste rand een rode kleur */
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 675px;
+    background-color: rgb(141, 250, 163);
+    transition: .1s linear;
+  }
+  #Nieuwsbrief:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+  }
+  
+  /* woorden veranderen(classes) */
+  h1{
+    position:absolute;
+    margin-top: -3px;
+    margin-left: 20px;
+  }
+  h2{
+    position:absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 1000px;
+    font-size: 20px;
+  }
+  h3{
+    position:absolute;
+    margin-top: -3px;
+    margin-left: 20px;
+    font-size: 30px;
+  }
+  h4{
+    position:absolute;
+    margin-top: 5px;
+    margin-left: 0px;
+    font-size: 30px;
+    width: 1000px;
+  }
+  h5{
+    position:absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+    width: 1000px;
+    text-decoration: underline;
+  }
+  h6{
+    position:absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 22px;
+  }
+  .l1{
+    position:relative;
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: -30px;
+  }
+  .m1{
+    position:absolute;
+    margin-top: -15px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  #Materialen{
+    position:relative;
+    margin-top: 35px;
+    border: 0px solid #000000;
+    border-top-width: 1px;
+  }
+  /* paar woorden verplaatsen */
+  #Categorieentext{
+    position:relative;
+    margin-top: 35px;
+    border: 0px solid #000000;
+    border-top-width: 1px;
+  }
+  #slider{
+    border: 0px solid #000000;
+    border-top-width: 1px;
+    position:relative;
+    margin-top: 50px;
+  }
+  
+  
+  .w3-container{
+    margin-top: 50px;
+    margin-left: 5px;
+  }
+  
+  .q1{
+    color: white;
+    margin-left: 10px;
+  }
+  
+  .container1 {
+    border: 2px solid #000000;
+    border-right-width:5px ;
+    border-bottom-width:5px ;
+    padding: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color: rgb(0, 55, 255);
+  }
+  
+  .menu-item {
+    position:relative;
+    left:200px;
+    top:35px;
+    padding: 5px;
+    color: rgb(4, 230, 57);
+    
+  }
+  .menu-item:hover {
+    color: #eee;
+  }
+  
+  .q2{
+    position:absolute;
+    margin-left: 25%;
+    font-size: 30px;
+    margin-top: 40px;
+  }
+  
+  #sorteren{
+  
+    position:absolute;
+    margin-left: 62%;
+    font-size: 20px;
+    margin-top: 45px;
+  }
+  
+  #toon{
+    position:absolute;
+    margin-left: 78%;
+    font-size: 20px;
+    margin-top: 45px;
+  }
+  #Blokkenplek{
+    position:absolute;
+    margin-left: 22%;
+    margin-top: 6%;
+  width: 74%;
+  height:1380px;
+  background-color: rgb(141, 250, 163);
+  border: 0px solid #000000;
+    border-top-width: 2px;
+  }
+   /* Alle dieren hun fotos en woorden en boxes verplaatsen */
+  .doos{
+    
+    border: 2px solid #000000;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+    
+  }
+  .doos:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+  height: 260px;
+  
+  }
+  
+  #plaatje1{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos2{
+    
+    border: 2px solid #000000;
+    margin-left: 250px;
+    margin-top: 20px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  
+  #doos2:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje2{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+    
+  }
+  
+  #doos3{
+   
+    border: 2px solid #000000;
+    margin-left: 480px;
+    margin-top: 20px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos3:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje3{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  #doos4{
+    
+    border: 2px solid #000000;
+    margin-left: 710px;
+    margin-top: 20px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos4:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje4{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos5{
+    
+    border: 2px solid #000000;
+    margin-left: 20px;
+    margin-top: 290px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos5:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje5{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos6{
+    
+    border: 2px solid #000000;
+    margin-left: 250px;
+    margin-top: 290px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos6:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje6{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos7{
+    
+    border: 2px solid #000000;
+    margin-left: 480px;
+    margin-top: 290px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos7:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje7{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  #doos8{
+    
+    border: 2px solid #000000;
+    margin-left: 710px;
+    margin-top: 290px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos8:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje8{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos9{
+    
+    border: 2px solid #000000;
+    margin-left: 20px;
+    margin-top: 560px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos9:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje9{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos10{
+    
+    border: 2px solid #000000;
+    margin-left: 250px;
+    margin-top: 560px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos10:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje10{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos11{
+    
+    border: 2px solid #000000;
+    margin-left: 480px;
+    margin-top: 560px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos11:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje11{
+    
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  #doos12{
+    
+    border: 2px solid #000000;
+    margin-left: 710px;
+    margin-top: 560px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos12:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje12{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos13{
+    
+    border: 2px solid #000000;
+    margin-left: 20px;
+    margin-top: 830px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos13:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje13{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos14{
+    
+    border: 2px solid #000000;
+    margin-left: 250px;
+    margin-top: 830px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos14:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje14{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos15{
+    
+    border: 2px solid #000000;
+    margin-left: 480px;
+    margin-top: 830px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos15:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje15{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  #doos16{
+    
+    border: 2px solid #000000;
+    margin-left: 710px;
+    margin-top: 830px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos16:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje16{
+    
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  #doos17{
+    
+    border: 2px solid #000000;
+    margin-left: 20px;
+    margin-top: 1100px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos17:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje17{
+    
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos18{
+    
+    border: 2px solid #000000;
+    margin-left: 250px;
+    margin-top: 1100px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos18:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje18{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  
+  #doos19{
+   
+    border: 2px solid #000000;
+    margin-left: 480px;
+    margin-top: 1100px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos19:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje19{
+  
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  #doos20{
+   
+    border: 2px solid #000000;
+    margin-left: 710px;
+    margin-top: 1100px;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+  }
+  #doos20:hover {
+    outline: 5px solid rgb(255, 0, 0);
+    transition: .1s linear;
+    height: 260px;
+  }
+  #plaatje20{
+    
+    border: 2px solid #000000;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 185px;
+    height: 150px;
+    background-color: rgb(141, 250, 163);
+  }
+  /* woorden veranderen(classes) */
+  .o1{
+    font-size: 30px;
+    margin-left: 10px;
+  }
+  .o2{
+    margin-left: 10px;
+  }
+  
+  #logo2{
+    margin-left: 150px;
+  }
+  #logo31{
+    margin-left: 150px;
+    margin-top: -80px;
+  cursor: pointer;
+  }
+  #logo31:hover {
+    
+  }
+  #logo32{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo33{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo34{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo35{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo36{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo37{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo38{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo39{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo40{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo41{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo42{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo43{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo44{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo45{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo46{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo47{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo48{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo49{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+  #logo50{
+    margin-left: 150px;
+    margin-top: -80px;
+    cursor: pointer;
+  }
+   /* De 2 Info woorden en boxes onderaan */
+  #klantenservice{
+    position: absolute;
+    border: 1px solid rgb(0, 0, 0);
+    margin-left: 300px;
+    width: 250px;
+    height: 200px;
+  }
+  .infostylegroot{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+  }
+  .infostyle{
+    font-size: 15px;
+    margin-left: 5px;
+  }
+  #overons{
+    position: absolute;
+    border: 1px solid rgb(0, 0, 0);
+    margin-left: 600px;
+    width: 250px;
+    height: 200px;
+  }
+    /* De slider voor de prijs */
+  
+  .min-max-slider {position: relative; width: 200px; text-align: center; margin-bottom: 50px;}
+  .min-max-slider > label {display: none;}
+  span.value {height: 1.7em; font-weight: bold; display: inline-block;}
+  span.value.lower::before {content: "€"; display: inline-block;}
+  span.value.upper::before {content: "- €"; display: inline-block; margin-left: 0.4em;}
+  .min-max-slider > .legend {display: flex; justify-content: space-between;}
+  .min-max-slider > .legend > * {font-size: small; opacity: 0.25;}
+  .min-max-slider > input {cursor: pointer; position: absolute;}
+  
+  
+  .min-max-slider > input {
+    -webkit-appearance: none;
+    outline: none!important;
+    background: transparent;
+    background-image: linear-gradient(to bottom, transparent 0%, transparent 30%, silver 30%, silver 60%, transparent 60%, transparent 100%);
+  }
+  .min-max-slider > input::-webkit-slider-thumb {
+    -webkit-appearance: none; 
+    appearance: none;
+    width: 14px;
+    height: 14px; 
+    background: #eee; 
+    cursor: pointer;
+    border: 1px solid gray;
+    border-radius: 100%;
+  }
+  .min-max-slider > input::-webkit-slider-runnable-track {cursor: pointer;}
+  
+  /* alle boxes van title image product description prijs */
+  #productsdisplay1{
+    border: 2px solid #000000;
+   margin-top: 80px;
+   margin-left: 220px;
+    width: 500px;
+    height: 918px;
+    
+    
+  }
+  #product1{
+    
+    border: 2px solid #000000;
+    max-width: 500px;
+    max-height: 180px;
+    width: 500px;
+    height: 180px;
+  }
+  #Quantity1{
+    margin-left: 260px;
+    margin-top: 140px;
+    position:absolute;
+    border: 2px solid #000000;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #Quantity2{
+    margin-left: 260px;
+    margin-top: 140px;
+    position:absolute;
+    border: 2px solid #000000;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #Quantity3{
+    margin-left: 260px;
+    margin-top: 140px;
+    position:absolute;
+    border: 2px solid #000000;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #Quantity4{
+    margin-left: 260px;
+    margin-top: 140px;
+    position:absolute;
+    border: 2px solid #000000;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #Quantity5{
+    margin-left: 260px;
+    margin-top: 140px;
+    position:absolute;
+    border: 2px solid #000000;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .pp1{
+    font-size: 30px;
+  }
+  
+  #ImageBox1{
+    
+   margin-top: 20px;
+   margin-left: 20px;
+    width: 120px;
+    height: 120px;
+  }
+  #TitleBox1{
+  position: absolute;
+    font-size: 40px;
+    margin-left: 150px;
+    top:60px
+  }
+  #DescriptionBox1{
+    position: absolute;
+    
+    margin-top: 50px;
+    margin-left: 150px;
+     width: 350px;
+     height: 120px;
+  }
+  #PrijsBox1{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 150px;
+     width: 120px;
+     height: 120px;
+  }
+  #MultiPrijsBox1{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 400px;
+     width: 120px;
+     height: 120px;
+  }
+  
+  #product2{
+    margin-top: 0px;
+    border: 2px solid #000000;
+    max-width: 500px;
+    max-height: 180px;
+    width: 500px;
+    height: 180px;
+  }
+  #ImageBox2{
+    
+   margin-top: 20px;
+   margin-left: 20px;
+    width: 120px;
+    height: 120px;
+  }
+  #TitleBox2{
+  position: absolute;
+   
+    font-size: 40px;
+    
+    margin-left: 150px;
+    top:240px
+  
+    
+  }
+  #DescriptionBox2{
+    position: absolute;
+    
+    margin-top: 50px;
+    margin-left: 150px;
+     width: 350px;
+     height: 120px;
+  }
+  #PrijsBox2{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 150px;
+     width: 120px;
+     height: 120px;
+  }
+  #MultiPrijsBox2{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 400px;
+     width: 120px;
+     height: 120px;
+  }
+  #product3{
+    margin-top: 0px;
+    border: 2px solid #000000;
+    max-width: 500px;
+    max-height: 180px;
+    width: 500px;
+    height: 180px;
+  }
+  #ImageBox3{
+    
+   margin-top: 20px;
+   margin-left: 20px;
+    width: 120px;
+    height: 120px;
+  }
+  #TitleBox3{
+  position: absolute;
+   
+    font-size: 40px;
+    
+    margin-left: 150px;
+    top:420px
+  
+    
+  }
+  #DescriptionBox3{
+    position: absolute;
+    
+    margin-top: 50px;
+    margin-left: 150px;
+     width: 350px;
+     height: 120px;
+  }
+  #PrijsBox3{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 150px;
+     width: 120px;
+     height: 120px;
+  }
+  #MultiPrijsBox3{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 400px;
+     width: 120px;
+     height: 120px;
+  }
+  #product4{
+    margin-top: 0px;
+    border: 2px solid #000000;
+    max-width: 500px;
+    max-height: 180px;
+    width: 500px;
+    height: 180px;
+  }
+  #ImageBox4{
+    
+   margin-top: 20px;
+   margin-left: 20px;
+    width: 120px;
+    height: 120px;
+  }
+  #TitleBox4{
+  position: absolute;
+   
+    font-size: 40px;
+    
+    margin-left: 150px;
+    top:600px
+  
+    
+  }
+  #DescriptionBox4{
+    position: absolute;
+    
+    margin-top: 50px;
+    margin-left: 150px;
+     width: 350px;
+     height: 120px;
+  }
+  #PrijsBox4{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 150px;
+     width: 120px;
+     height: 120px;
+  }
+  #MultiPrijsBox4{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 400px;
+     width: 120px;
+     height: 120px;
+  }
+  #product5{
+    margin-top: 0px;
+    border: 2px solid #000000;
+    max-width: 500px;
+    max-height: 180px;
+    width: 500px;
+    height: 180px;
+  }
+  #ImageBox5{
+    
+   margin-top: 20px;
+   margin-left: 20px;
+    width: 120px;
+    height: 120px;
+  }
+  #TitleBox5{
+  position: absolute;
+   
+    font-size: 40px;
+    
+    margin-left: 150px;
+    top:780px
+  
+    
+  }
+  #DescriptionBox5{
+    position: absolute;
+    
+    margin-top: 50px;
+    margin-left: 150px;
+     width: 350px;
+     height: 120px;
+  }
+  #PrijsBox5{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 150px;
+     width: 120px;
+     height: 120px;
+  }
+  #MultiPrijsBox5{
+    position: absolute;
+    
+    margin-top: 135px;
+    margin-left: 400px;
+     width: 120px;
+     height: 120px;
+  }
+  /* lettertype */
+  .p9{
+    position: absolute;
+  font-size: 40px;
+  margin-left: 220px;
+  margin-top: 20px;
+  
+  }
+  
+  .p10{
+    
+    color:green
+    
+  }
+  /* buttons en checkout box */
+  #DeleteButton{
+    position: absolute;
+    margin-top:-20px;
+    margin-left: 250px;
+    
+  }
+  
+  #Dbutton{
+    position:absolute;
+    margin-left: 600px;
+   
+  }
+  
+  
+  #checkout{
+    position:absolute;
+    margin-left: 200px;
+    margin-top: 20px;
+    border: 2px solid #000000;
+    max-width: 500px;
+    max-height: 280px;
+    width: 300px;
+    height: 200px;
+  }
+  #subtotaal{
+    margin-left: 10px;
+    margin-top: 50px;
+  
+    max-width: 500px;
+    max-height: 280px;
+    width: 270px;
+    height: 100px;
+  }
+  
+  .button5 {
+    position:absolute;
+    margin-top: 120px;
+    margin-left: 25px;
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .button6 {
+    position:absolute; 
+    margin-left: 725px;
+    margin-top: 60px;
+    
+    
+  }
+  
+  .button5:hover {
+    background-color: darkorange;
+  }
+  #RH30{
+    background-color: rgb(220, 237, 208);
+    height: 1150px;
+   width: 100%;
+   position: relative;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: -1.5px;
+  }
+  #RH31{
+    background-color: rgb(220, 237, 208);
+    height: 400px;
+   width: 100%;
+   position: relative;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: -1.5px;
+  }
+  #RH32{
+    background-color: rgb(220, 237, 208);
+    height: 850px;
+   width: 100%;
+   position: relative;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: -1.5px;
+  }
+  
+  .p100{
+    font-size: 100px;
+  }
+  body {
+    /* /* max-width: 100vw; 
+  
+    overflow-x: hidden;  */
+  
+  }
+  
+  
+  .parent {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+  
+    }
+    
+    .div1 { grid-area: 1 / 1 / 2 / 2; 
+    border: 2px solid #000000;
+    width: 200px;
+    height: 250px;
+    background-color: rgb(151, 151, 151);
+    transition: .1s linear;
+    transition: height 1s;
+    }
+   
+    
+    .div2 { grid-area: 1 / 2 / 2 / 3; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div3 { grid-area: 1 / 3 / 2 / 4; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div4 { grid-area: 1 / 4 / 2 / 5; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div5 { grid-area: 2 / 1 / 3 / 2; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div6 { grid-area: 2 / 2 / 3 / 3; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div7 { grid-area: 2 / 3 / 3 / 4; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div8 { grid-area: 2 / 4 / 3 / 5; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div9 { grid-area: 3 / 1 / 4 / 2; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div10 { grid-area: 3 / 2 / 4 / 3; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div11 { grid-area: 3 / 3 / 4 / 4; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div12 { grid-area: 3 / 4 / 4 / 5; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div13 { grid-area: 4 / 1 / 5 / 2; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div14 { grid-area: 4 / 2 / 5 / 3; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div15 { grid-area: 4 / 3 / 5 / 4; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div16 { grid-area: 4 / 4 / 5 / 5; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div17 { grid-area: 5 / 1 / 6 / 2; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div18 { grid-area: 5 / 2 / 6 / 3; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div19 { grid-area: 5 / 3 / 6 / 4; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+    .div20 { grid-area: 5 / 4 / 6 / 5; 
+      border: 2px solid #000000;
+      width: 200px;
+      height: 250px;
+      background-color: rgb(151, 151, 151);
+      transition: .1s linear;
+      transition: height 1s;
+    }
+  
+    .div1:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div2:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div3:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div4:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div5:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div6:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div7:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div8:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div9:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div10:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div11:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div12:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div13:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div14:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div15:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div16:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div17:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div18:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div19:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+    .div20:hover {
+      outline: 5px solid rgb(255, 0, 0);
+      transition: .1s linear;
+      
+    }
+  
+   #marge{
+    margin-left: 10px;
+    margin-top: 10px;
+   }
+  
+   .PP2{
+    margin-left: 50px;
+    font-size: 50px;
+   }
+   .PP3{
+    position:absolute;
+    margin-left: 280px;
+    margin-top: -70px;
+    font-size: 50px;
+   }
+   .PP4{
+    position:absolute;
+    margin-left: 10px;
+    width: 450px;
+    font-size: 20px;
+  
+   }
+  
+   .PP5{
+    position:absolute;
+    margin-left: 100px;
+    width: 450px;
+    font-size: 20px;
+   
+  
+   }
+   #biobox{
+    position:absolute;
+    height: 100px;
+    width: 500px;
+    margin-left: -3px;
+    margin-top: 95px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+   }
+   #mainImg{
+    margin-left: 50px;
+   }
+   #detailproduct{
+    
+    height: 700px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+   }
+  
+   #CartId99{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 700px;
+   }
+   .button_plus {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    cursor: pointer;
+    border: 2px solid #095776;
+  
+    /* Mittig */
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button_plus:after {
+    content: '';
+    position: absolute;
+    transform: translate(-50%, -50%);
+    height: 4px;
+    width: 50%;
+    background: #095776;
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button_plus:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #095776;
+    height: 50%;
+    width: 4px;
+  }
+  
+  .button_plus:hover:before,
+  .button_plus:hover:after {
+    background: #fff;
+    transition: 0.2s;
+  }
+  
+  .button_plus:hover {
+    background-color: #095776;
+    transition: 0.2s;
+  }
+  #ButtonPlus1{
+    position:absolute;
+    margin-left: 300px;
+    margin-top: 140px;
+  }
+  #ButtonPlus2{
+    position:absolute;
+    margin-left: 300px;
+    margin-top: 140px;
+  }
+  .button2_plus {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    cursor: pointer;
+    border: 2px solid #095776;
+  
+    /* Mittig */
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button2_plus:after {
+    content: '';
+    position: absolute;
+    transform: translate(-50%, -50%);
+    height: 4px;
+    width: 50%;
+    background: #095776;
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button2_plus:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #095776;
+    height: 50%;
+    width: 4px;
+  }
+  #ButtonPlus3{
+    position:absolute;
+    margin-left: 300px;
+    margin-top: 140px;
+  }
+  .button3_plus {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    cursor: pointer;
+    border: 2px solid #095776;
+  
+    /* Mittig */
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button3_plus:after {
+    content: '';
+    position: absolute;
+    transform: translate(-50%, -50%);
+    height: 4px;
+    width: 50%;
+    background: #095776;
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button3_plus:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #095776;
+    height: 50%;
+    width: 4px;
+  }
+  #ButtonPlus4{
+    position:absolute;
+    margin-left: 300px;
+    margin-top: 140px;
+  }
+  .button4_plus {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    cursor: pointer;
+    border: 2px solid #095776;
+  
+    /* Mittig */
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button4_plus:after {
+    content: '';
+    position: absolute;
+    transform: translate(-50%, -50%);
+    height: 4px;
+    width: 50%;
+    background: #095776;
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button4_plus:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #095776;
+    height: 50%;
+    width: 4px;
+  }
+  #ButtonPlus5{
+   position:absolute;
+    margin-left: 300px;
+    margin-top: 140px;
+    color: #095776;
+  }
+  .button5_plus {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    cursor: pointer;
+    border: 2px solid #095776;
+  
+    /* Mittig */
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button5_plus:after {
+    content: '';
+    position: absolute;
+    transform: translate(-50%, -50%);
+    height: 4px;
+    width: 50%;
+    background: #095776;
+    top: 50%;
+    left: 50%;
+  }
+  
+  .button5_plus:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #095776;
+    height: 50%;
+    width: 4px;
+  }
+  #horror{
+    position:absolute;
+    margin-left: -100px;
+    color:#095776
+  }
+  
+  
+      .parentB {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        grid-column-gap: 0px;
+        
+        }
+        
+        .div1B {
+          grid-area: 1 / 1 / 2 / 2;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div2B {
+          grid-area: 1 / 2 / 2 / 3;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div3B {
+          grid-area: 1 / 3 / 2 / 4;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;  
+        }
+        
+        .div4B {
+          grid-area: 1 / 4 / 2 / 5;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        
+        .div5B {
+          grid-area: 1 / 5 / 2 / 6;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div6B {
+          grid-area: 2 / 1 / 3 / 2;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;  
+        }
+        .div7B {
+          grid-area: 2 / 2 / 3 / 3;  
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div8B {
+          grid-area: 2 / 3 / 3 / 4;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px; 
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div9B {
+          grid-area: 2 / 4 / 3 / 5;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div10B {
+          grid-area: 2 / 5 / 3 / 6;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div11B {
+          grid-area: 3 / 1 / 4 / 2;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        .div12B {
+          grid-area: 3 / 2 / 4 / 3;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div13B {
+          grid-area: 3 / 3 / 4 / 4;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div14B {
+          grid-area: 3 / 4 / 4 / 5;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div15B {
+          grid-area: 3 / 5 / 4 / 6;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        .div16B {
+          grid-area: 4 / 1 / 5 / 2;  
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px; 
+        }
+        
+        .div17B {
+          grid-area: 4 / 2 / 5 / 3;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div18B {
+          grid-area: 4 / 3 / 5 / 4;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div19B {
+          grid-area: 4 / 4 / 5 / 5;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div20B {
+          grid-area: 4 / 5 / 5 / 6;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div21B {
+          grid-area: 5 / 1 / 6 / 2;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div22B {
+          grid-area: 5 / 2 / 6 / 3;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        } 
+        .div23B {
+          grid-area: 5 / 3 / 6 / 4;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+        
+        .div24B {
+          grid-area: 5 / 4 / 6 / 5;
+          border: 2px solid #000000;
+          width: 100px;
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;  
+        }
+        .div25B {
+          grid-area: 5 / 5 / 6 / 6;
+          border: 2px solid #000000;
+          width: 100px; 
+          height: 50px;
+          background-color: rgb(177, 177, 177);
+          margin-bottom: 20px;
+        }
+  
+  
+  
+        #Bestellinginf{
+          position:absolute;
+          margin-top:  110px;
+        }
+       #reviews{
+        position:absolute;
+        font-size: 70px;
+        margin-left: 650px;
+        margin-top:-550px;
+       }
+       #subtotaal1{
+        margin-left: 10px;
+        margin-top: 50px;
+      
+        max-width: 500px;
+        max-height: 280px;
+        width: 270px;
+        height: 100px;
+      }
+      #checkout1{
+        position:absolute;
+        margin-left: 650px;
+        margin-top: 120px;
+        border: 2px solid #000000;
+        max-width: 500px;
+        max-height: 280px;
+        width: 300px;
+        height: 200px;
+      }
+      #Quantities1 {
+        margin-left: 10px; 
+      }
+      #Quantities2 {
+        margin-left: 10px; 
+      }
+      #Quantities3 {
+        margin-left: 10px; 
+      }
+      #Quantities4 {
+        margin-left: 10px; 
+      }
+      #Quantities5 {
+        margin-left: 10px; 
+      }
