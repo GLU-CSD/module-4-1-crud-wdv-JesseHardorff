@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 22, 2024 at 01:38 PM
+-- Generation Time: May 24, 2024 at 11:44 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -40,13 +40,50 @@ CREATE TABLE `blogs` (
 --
 
 INSERT INTO `blogs` (`id`, `blog_bericht`, `blog_maker`, `tijd_gemaakt`, `laatst_edit`) VALUES
-(1, 'WOW WOWd WOW WvOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW WOW ', 'Jessedddddddd', '2024-05-21 14:18:52', '2024-05-21 14:31:51'),
-(2, 'hweyt', 'Jesse', '2024-05-21 14:38:42', '2024-05-21 14:38:42'),
-(10, 'HALLLLLLLLLLLOO VALIDATIE PROOF LETTSGOO', 'PIET', '2024-05-22 11:51:07', '2024-05-22 11:51:07'),
-(22, '&lt;script&gt;', 'Jesse', '2024-05-22 11:48:34', '2024-05-22 11:48:34'),
-(33, '&gt;AWD&gt;AW', '2WDA2@', '2024-05-22 11:48:17', '2024-05-22 11:48:17'),
-(34, 'dawda', 'HAIA', '2024-05-21 14:29:47', '2024-05-22 11:55:35'),
-(232, 'Dit is het nieuwste bericht', 'Jesse', '2024-05-22 11:25:36', '2024-05-22 11:25:36');
+(1, 'Hallo dit hoort id 1 te zijn BEWERKT nog een keer bewerkt', 'Jesse', '2024-05-23 09:16:20', '2024-05-23 09:20:12'),
+(2, 'En dit hoort id 2 te zijn hopelijk.', 'Jesse', '2024-05-23 09:16:40', '2024-05-23 09:23:46'),
+(3, 'en dit dan 3', 'nogsteeds Jesse', '2024-05-23 09:16:54', '2024-05-23 09:16:54'),
+(4, '323.,adw/', 'Jesse', '2024-05-23 09:24:03', '2024-05-23 09:24:03'),
+(5, 'uisqsUIUQ', 'jaap', '2024-05-24 10:45:10', '2024-05-24 10:45:10'),
+(6, 'awawdadwadw', 'adawdawdawd', '2024-05-24 10:48:44', '2024-05-24 10:48:44');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `login`
+--
+
+CREATE TABLE `login` (
+  `id` int(11) NOT NULL,
+  `username` varchar(255) NOT NULL,
+  `password` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `login`
+--
+
+INSERT INTO `login` (`id`, `username`, `password`) VALUES
+(5, 'IKEBNJESSE', 'WACHTWOORDJESSEs!2'),
+(6, 'jesse', 'Oh2873278!'),
+(7, 'IKEBNJESSE', 'Oh2873278!awdawdg'),
+(8, 'IKEBNJESSE', 'WACHTWOORDJESSEs!2'),
+(9, 'dd', '$2y$10$HUF5b0VT55/BgXKj1VtHPu6gBrBMn3TThOLvH7v.VaMlGSVmgClha'),
+(10, 'jesse', '$2y$10$ud0PUtNOB.All.xdHU70SutEKXt0vxtQGRmHCMKtEncqsHbG8EtNK'),
+(11, 'd', '$2y$10$RK/pCsCzmbfp3uFm/DtHBOhQizyAhlv2ugNHLv9161b/qQGKTnBly'),
+(12, 'd', '$2y$10$S9b11ndjaCy/dDInU1wkp.MfCDfH4dOTvsDN1b2jDffuW7o0FXOG2'),
+(13, 'f', '$2y$10$im9ZCuxSsFFfpMLxjXTGrum7RlbLmFejgQ6PlvirLzgYYfM/UaWMa'),
+(14, 'd', '$2y$10$eXww9dVgu4mn6MhrBUnXzOrzVCofRmQFizKBnosqfWhbItChNKwHO'),
+(15, 'd', '$2y$10$66QwBGm38CpIq0DDpKeAhOVtqzyFfUS4/jZ8ycbdpztFjHWa97r5O'),
+(16, 'a', '$2y$10$xhbSTjL/4OKPcQpRxYd65OWwdDfYPfUiLiis1ZkbwiN0Rc/bFIFVW'),
+(17, 'a', '$2y$10$CCjJBuly5r0L56N.KbEy3e2VsXyIsFomjpkHXweotX9Cb3mqGjQN6'),
+(18, 'd', '$2y$10$w.JDUDTCSzEnXuSBNM2LfOP1dmYMNBSOhp5dQWqRXGG3bnpkB4QLW'),
+(19, 'da', '$2y$10$PXc22uIU8j8usdUQFFi/.ub3NxBNBBEtrKDWC0zlqgYgBktb/vbcq'),
+(20, 'a', '$2y$10$P2fxr.dFzxMcdMkf8AjG6e.6ONR/u5PTi.EqspuLJMS2fZNutrJ.a'),
+(21, 'jaap', '$2y$10$.Z7VEAimm979rB/aO2NzO.RE90zinnCBqodC3rgCZ0OVxukBt9vQG'),
+(22, 'awdawd', '$2y$10$HUjuzVl1qerzUNOqBZwLxOoyN7S2Ed/s.tESFqYKeSMsiqm0Q8wtK'),
+(23, 'adawdawdawd', '$2y$10$2PDaLCAfLuQLn4mZo5IeQesLFZWj0rDyyrWCR6cM6tOgk6a5BdcAq'),
+(24, 'jesse', '$2y$10$gechjFvB1TNGtuHINpPbSOBDbxOjFlxXWwle9VXW6sl7ra8KJT7b6');
 
 -- --------------------------------------------------------
 
@@ -102,6 +139,12 @@ ALTER TABLE `blogs`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `login`
+--
+ALTER TABLE `login`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indexes for table `producten`
 --
 ALTER TABLE `producten`
@@ -116,6 +159,12 @@ ALTER TABLE `producten`
 --
 ALTER TABLE `blogs`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=233;
+
+--
+-- AUTO_INCREMENT for table `login`
+--
+ALTER TABLE `login`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=25;
 
 --
 -- AUTO_INCREMENT for table `producten`

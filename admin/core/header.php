@@ -1,6 +1,5 @@
 <?php
   include($_SERVER['DOCUMENT_ROOT'] . '/Module2/adminwebshop/core/db_connect.php');
-    
 ?>
 <!DOCTYPE html>
 <html lang="en">
